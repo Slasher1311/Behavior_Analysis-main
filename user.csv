@@ -1,0 +1,1113 @@
+,id,gender,age,education,profession,income,marital_status,continent,fb_freq,yt_freq,insta_freq,use_less_than_2GB,use_2GB_to_4GB,num_child
+0,7067,female,33,postgrad,unemployed,middle,single,asia,0,1,3,0,1,    1
+1,2114,female,34,postgrad,unemployed,middle,single,asia,0,1,1,1,1,   1
+2,6582,female,34,postgrad,unemployed,middle,single,oceania,0,1,3,1,0,  3
+3,11379,female,34,postgrad,unemployed,middle,single,america,0,1,3,0,0,   4
+4,3986,female,34,postgrad,unemployed,middle,single,asia,0,1,1,0,1,    1
+5,18895,female,33,postgrad,unemployed,middle,single,oceania,0,1,3,0,1,2
+6,15411,female,35,postgrad,unemployed,middle,single,oceania,0,0,3,1,0,   1
+7,9479,female,44,grad,employed,lower,single,america,0,21,1,2,0,  2
+8,6066,female,43,grad,employed,lower,single,europe,0,17,1,3,0, 1
+9,4993,female,33,grad,employed,lower-middle,single,oceania,0,0,4,7,0,  1
+10,16677,female,33,grad,employed,lower-middle,single,europe,0,1,5,7,1,    1
+11,12449,female,34,grad,employed,lower-middle,single,europe,0,1,6,7,1,  2
+12,7488,female,48,grad,employed,lower-middle,single,asia,0,0,1,1,0,    0
+13,16063,female,49,grad,employed,lower-middle,single,europe,0,0,0,0,0, 0
+14,3687,female,48,grad,employed,lower-middle,single,america,0,1,1,1,0,    0
+15,19554,female,44,unknown,employed,lower,single,america,1,1,2,1,0,   3
+16,13548,female,43,unknown,employed,lower-middle,single,oceania,0,1,2,3,0,1
+17,9635,female,45,unknown,employed,lower,single,europe,0,2,3,3,0,1
+18,9065,female,45,unknown,employed,lower-middle,single,europe,0,1,1,2,0,3
+19,9063,female,72,unknown,employed,lower-middle,single,america,2,2,5,7,2,0
+20,4097,female,50,unknown,employed,lower,single,oceania,1,2,8,7,3,    0
+21,16457,female,59,unknown,employed,lower,single,america,2,1,8,7,1,    0
+22,5225,female,76,unknown,employed,lower-middle,single,oceania,2,1,4,4,3,    0
+23,14587,female,62,unknown,employed,lower,single,asia,3,3,8,5,3,  0
+24,11945,female,68,unknown,employed,lower-middle,single,asia,2,3,8,8,3,0
+25,19981,female,72,unknown,employed,lower-middle,single,asia,3,1,5,8,3,    0
+26,5942,female,74,unknown,employed,lower-middle,single,asia,2,1,5,6,2,0
+27,2482,female,67,unknown,employed,lower,single,asia,1,3,7,4,2,0
+28,1331,female,30,postgrad,employed,lower-middle,single,america,1,3,1,17,2,0
+29,10734,female,30,postgrad,employed,lower,single,america,1,3,2,19,1,0
+30,2379,female,49,unknown,employed,lower-middle,single,america,0,0,3,1,0,2
+31,16826,female,48,unknown,employed,lower-middle,single,asia,1,0,2,0,0,    1
+32,4701,female,48,unknown,employed,lower,single,europe,0,1,3,1,0,1
+33,10078,female,46,unknown,employed,lower,single,america,0,0,3,0,0,   1
+34,2810,female,47,unknown,employed,lower-middle,single,america,0,1,1,0,0,4
+35,8146,female,30,undergrad,employed,middle,married,europe,0,3,3,2,0,   0
+36,15925,female,32,undergrad,employed,middle,married,america,0,0,5,14,0,1
+37,10381,female,35,undergrad,employed,lower-middle,married,asia,0,0,6,22,0,   1
+38,7211,female,34,undergrad,employed,middle,married,asia,0,0,7,21,0, 1
+39,5365,female,34,postgrad,employed,lower-middle,married,europe,1,4,7,7,8,0
+40,16974,female,32,postgrad,employed,middle,married,oceania,2,4,8,4,7,   0
+41,16815,female,33,postgrad,employed,middle,married,europe,2,7,8,5,4,   0
+42,14365,female,33,postgrad,employed,lower-middle,married,oceania,3,6,6,8,4,    0
+43,2638,female,34,postgrad,employed,middle,married,america,3,6,7,8,5,0
+44,1731,female,40,postgrad,employed,middle,married,america,0,1,3,5,1, 4
+45,14732,female,37,postgrad,employed,middle,married,asia,1,0,2,7,0,   1
+46,5080,female,36,postgrad,employed,middle,married,america,1,0,1,7,0,2
+47,10049,female,37,postgrad,employed,middle,married,asia,0,0,3,4,1, 1
+48,18547,female,36,postgrad,employed,upper-middle,married,asia,0,0,1,5,1, 1
+49,3506,female,36,postgrad,employed,middle,married,europe,0,1,2,6,0,3
+50,13943,female,33,grad,employed,lower,married,america,0,0,1,0,0,  4
+51,14077,female,31,grad,employed,lower-middle,married,europe,0,0,3,0,0, 1
+52,18165,female,67,postgrad,retired,lower,single,oceania,1,7,5,5,0,   2
+53,17178,female,73,postgrad,retired,lower,single,europe,3,8,4,5,1,  3
+54,12426,female,32,unknown,employed,middle,single,oceania,0,3,13,4,2, 0
+55,1819,female,31,unknown,employed,middle,single,oceania,0,1,20,6,1, 0
+56,8067,female,42,undergrad,unemployed,middle,single,asia,0,1,4,2,0, 2
+57,14390,female,41,undergrad,unemployed,middle,single,asia,0,0,7,3,1,3
+58,6548,female,45,undergrad,unemployed,middle,single,europe,0,1,8,2,0,   1
+59,8922,female,39,grad,unemployed,middle,single,oceania,1,3,2,0,0,  1
+60,8231,female,35,unknown,employed,extreme upper,single,oceania,0,0,23,4,0,    0
+61,16405,female,31,unknown,employed,upper-middle,single,america,1,1,20,6,1,  0
+62,5619,female,34,unknown,employed,upper,single,america,0,0,11,6,1,   0
+63,15489,female,35,unknown,employed,extreme upper,single,oceania,1,0,14,5,1,   0
+64,12882,female,35,unknown,employed,upper-middle,single,america,0,0,22,8,1, 0
+65,16852,female,32,unknown,employed,lower,single,asia,3,10,4,4,12,    1
+66,14790,female,33,unknown,employed,lower,single,asia,3,22,7,4,21, 1
+67,19292,female,33,unknown,employed,lower,single,oceania,3,23,4,7,13, 2
+68,9334,female,46,unknown,employed,lower-middle,single,oceania,0,1,3,3,1,  1
+69,3171,female,49,unknown,employed,lower-middle,single,europe,0,1,3,2,1, 4
+70,11211,female,67,undergrad,retired,lower,single,america,0,1,3,7,1,    2
+71,9767,female,60,undergrad,retired,lower,single,asia,0,1,1,7,0,  3
+72,13703,female,51,undergrad,retired,lower,single,oceania,0,1,2,6,0,    2
+73,19696,female,64,undergrad,retired,lower,single,america,0,0,3,4,1, 2
+74,6430,female,46,unknown,employed,lower,single,oceania,0,0,1,1,1,  0
+75,17396,female,49,unknown,employed,lower-middle,single,europe,0,0,2,0,0,    0
+76,18477,female,66,unknown,retired,lower-middle,single,europe,0,3,1,2,1,  2
+77,5744,female,32,grad,employed,extreme upper,single,europe,0,0,1,2,1,    0
+78,7946,female,33,grad,employed,upper,single,oceania,0,1,0,1,3,  0
+79,18508,female,37,unknown,employed,lower,single,america,0,1,1,0,0,3
+80,9598,female,40,unknown,employed,lower,single,europe,0,1,3,0,0,3
+81,9750,female,39,unknown,employed,lower,single,oceania,0,2,1,0,1,2
+82,18244,female,36,unknown,employed,lower,single,asia,0,3,2,1,0,   3
+83,6675,female,37,unknown,employed,lower,single,oceania,0,3,2,0,0,  1
+84,14529,female,39,unknown,employed,lower,single,oceania,0,1,3,1,1, 4
+85,1073,female,36,unknown,employed,lower,married,america,0,3,3,1,1, 4
+86,13544,female,39,unknown,employed,lower,married,oceania,0,1,1,1,1,  4
+87,17137,female,40,unknown,employed,lower,married,oceania,0,1,2,0,0,  1
+88,5063,female,37,unknown,employed,lower,married,america,0,3,1,0,0, 1
+89,13362,female,36,unknown,employed,lower,married,oceania,0,1,1,0,1,    1
+90,2626,female,30,grad,employed,lower-middle,married,europe,3,1,17,12,14,   0
+91,8488,female,30,grad,employed,lower-middle,married,asia,1,1,19,21,21,   0
+92,4761,female,30,grad,employed,lower-middle,married,oceania,1,2,10,19,16,    0
+93,12088,female,30,unknown,unemployed,lower-middle,married,america,3,4,1,8,1,   4
+94,12726,female,30,grad,employed,lower,married,asia,0,3,0,3,0,  0
+95,18936,female,69,grad,retired,middle,married,oceania,0,0,6,3,1,   1
+96,3634,female,67,grad,retired,lower-middle,married,america,0,1,8,2,1,   1
+97,16141,female,60,grad,retired,lower-middle,single,america,0,0,6,1,0,    1
+98,8449,female,34,grad,employed,lower-middle,single,europe,0,3,6,13,1, 0
+99,13925,female,33,grad,employed,lower-middle,single,asia,0,3,8,17,0, 0
+100,3380,female,32,grad,employed,lower,single,america,0,1,4,11,1,   0
+101,14493,female,33,grad,employed,lower,single,oceania,0,1,8,9,1,  0
+102,7757,female,35,grad,employed,lower-middle,single,oceania,1,3,7,12,0,0
+103,3825,female,34,grad,employed,lower,single,america,0,3,6,16,0,    0
+104,10231,female,50,undergrad,employed,extreme upper,single,oceania,1,0,14,5,2,   1
+105,17615,female,59,undergrad,employed,extreme upper,single,europe,0,0,9,6,2, 1
+106,5661,female,56,undergrad,employed,extreme upper,single,asia,0,0,17,4,2,1
+107,11017,female,60,undergrad,employed,extreme upper,single,oceania,1,0,19,4,3, 2
+108,6453,female,37,postgrad,employed,middle,single,asia,5,19,5,5,1,   1
+109,11563,female,36,postgrad,employed,lower-middle,single,america,8,19,4,8,2,   1
+110,16302,female,37,postgrad,employed,middle,single,europe,5,15,6,6,1,    1
+111,7722,female,38,postgrad,employed,lower-middle,single,europe,8,10,8,6,3,   1
+112,17288,female,40,postgrad,employed,lower-middle,single,europe,6,20,5,8,1,  1
+113,8434,female,40,postgrad,student,lower,single,oceania,0,22,10,21,2,2
+114,9457,female,37,postgrad,student,lower,single,america,0,14,23,18,1, 2
+115,13340,female,36,postgrad,employed,extreme upper,single,oceania,0,4,1,4,2,    2
+116,17357,female,37,postgrad,employed,upper,single,america,0,4,1,8,1,1
+117,14420,female,38,postgrad,employed,extreme upper,single,europe,0,5,2,8,3,  3
+118,19905,female,44,unknown,employed,lower-middle,single,europe,1,0,1,1,0,   3
+119,12980,female,41,unknown,employed,lower-middle,single,oceania,0,1,1,0,0,   1
+120,5028,female,42,unknown,employed,lower-middle,single,europe,0,1,0,1,0,   1
+121,7136,female,44,unknown,employed,lower-middle,single,oceania,1,1,1,0,0,2
+122,7566,female,41,unknown,employed,lower-middle,single,oceania,0,1,1,0,0,    3
+123,13031,female,45,unknown,employed,lower,single,europe,0,0,1,0,0,  4
+124,12987,female,44,unknown,employed,lower,single,america,1,1,1,1,0,   2
+125,4074,female,34,grad,employed,lower-middle,single,oceania,4,3,1,5,1,  0
+126,7751,female,35,grad,employed,lower-middle,single,oceania,8,2,2,6,2,0
+127,1878,female,32,grad,employed,lower-middle,single,asia,7,2,2,4,2,0
+128,12773,female,32,unknown,employed,lower-middle,single,europe,0,1,8,8,0,   1
+129,18388,female,32,unknown,employed,lower-middle,single,asia,0,1,8,8,1,  2
+130,13316,female,32,unknown,employed,lower-middle,single,oceania,1,2,4,6,1,    3
+131,10256,female,60,unknown,employed,middle,single,asia,0,0,5,12,1,    1
+132,13853,female,78,unknown,employed,middle,single,america,0,0,5,14,1,  1
+133,15067,female,52,unknown,employed,middle,single,oceania,0,0,7,16,1,    2
+134,11161,female,66,unknown,employed,middle,single,oceania,0,0,7,23,1,1
+135,6458,female,49,postgrad,employed,middle,single,america,0,0,21,4,0,   1
+136,17704,female,46,postgrad,employed,middle,single,america,0,0,15,6,0,4
+137,14936,female,30,unknown,employed,lower-middle,single,asia,6,4,6,5,1,0
+138,5420,female,44,grad,employed,extreme upper,single,america,0,1,3,2,1,  1
+139,11993,female,44,grad,employed,upper,single,europe,0,2,3,1,1,1
+140,15894,female,30,grad,employed,lower-middle,single,oceania,0,1,2,2,0, 2
+141,6198,female,44,grad,employed,extreme upper,single,oceania,1,2,3,7,1,  2
+142,14947,female,42,grad,employed,extreme upper,single,asia,0,1,1,7,0,   2
+143,15520,female,42,grad,employed,extreme upper,single,europe,1,1,2,7,0,1
+144,11475,female,44,grad,employed,extreme upper,single,oceania,1,2,2,4,1,   4
+145,16290,female,52,grad,employed,middle,single,america,0,0,1,1,0,2
+146,4277,female,58,grad,employed,lower-middle,single,oceania,0,0,1,0,0,2
+147,10917,female,30,undergrad,unemployed,lower,single,oceania,2,1,8,1,6,  0
+148,12526,female,69,grad,employed,lower-middle,single,america,1,0,7,1,0,    2
+149,18888,female,56,grad,employed,lower-middle,single,america,1,0,4,0,1, 2
+150,2485,female,70,grad,employed,middle,single,oceania,1,0,8,1,0, 1
+151,8264,female,54,grad,employed,lower-middle,single,america,1,0,6,0,0,   2
+152,7467,female,34,unknown,employed,lower-middle,single,europe,11,13,22,12,13,  1
+153,15555,female,34,unknown,employed,lower-middle,single,asia,10,10,19,17,21, 3
+154,17837,female,40,grad,employed,lower-middle,single,oceania,20,2,8,2,3,    3
+155,1064,female,38,grad,employed,middle,single,asia,18,3,6,1,3,   2
+156,17132,female,37,grad,employed,lower-middle,single,america,18,1,6,1,1,1
+157,4461,female,31,undergrad,employed,lower-middle,single,oceania,3,1,3,1,8, 2
+158,10434,female,32,undergrad,employed,lower,single,america,2,1,2,1,6,  3
+159,11410,female,31,undergrad,employed,lower,single,oceania,1,1,2,1,8,4
+160,1586,female,33,undergrad,employed,lower-middle,single,europe,1,0,3,1,5,3
+161,11016,female,35,undergrad,employed,lower-middle,single,oceania,3,1,1,1,6,  1
+162,19876,female,34,undergrad,employed,lower-middle,single,asia,3,0,3,1,8,    1
+163,16749,female,33,undergrad,employed,lower,single,europe,2,1,1,0,5,   1
+164,19378,female,32,unknown,employed,lower,married,america,3,0,7,0,0, 3
+165,12226,female,32,unknown,employed,lower,married,america,1,0,6,1,1,  4
+166,4112,female,35,unknown,employed,lower,married,oceania,3,0,5,1,1, 2
+167,17670,female,42,postgrad,employed,middle,married,asia,0,12,6,16,1,    2
+168,13970,female,44,postgrad,employed,middle,married,america,1,17,6,15,1, 2
+169,5472,female,45,postgrad,employed,middle,married,america,1,9,5,18,0,    4
+170,2074,female,44,postgrad,employed,middle,married,europe,0,17,5,13,0, 2
+171,8553,female,43,postgrad,employed,middle,single,asia,1,11,6,9,1,    1
+172,12014,female,43,postgrad,employed,middle,single,europe,0,15,8,13,1, 2
+173,16930,female,43,grad,employed,extreme upper,single,america,3,1,0,1,1,   1
+174,17031,female,42,grad,employed,extreme upper,single,europe,1,1,1,3,2,2
+175,17678,female,44,grad,employed,upper-middle,single,europe,2,1,1,3,2,    1
+176,1729,female,43,grad,employed,extreme upper,single,america,2,0,1,1,1, 2
+177,17789,female,31,undergrad,employed,lower-middle,married,asia,0,1,2,2,2,    0
+178,15305,female,32,undergrad,employed,lower-middle,married,asia,0,3,1,2,3, 0
+179,6718,female,35,undergrad,employed,lower-middle,married,america,0,1,3,1,1,0
+180,7070,female,33,undergrad,employed,lower-middle,married,america,0,1,1,3,1,   0
+181,2678,female,35,undergrad,employed,lower-middle,married,america,0,2,1,3,3, 0
+182,9926,female,32,unknown,employed,upper,married,oceania,0,1,3,21,1, 0
+183,1152,female,32,unknown,employed,extreme upper,married,oceania,0,1,2,15,0,   0
+184,2862,female,31,unknown,employed,extreme upper,single,europe,0,1,2,22,1,0
+185,5907,female,46,unknown,employed,lower-middle,single,oceania,1,8,3,2,0,    0
+186,8862,female,48,unknown,employed,lower,single,oceania,1,8,1,2,1,    0
+187,7710,female,47,unknown,employed,lower-middle,single,america,1,8,1,2,0, 0
+188,13706,female,49,unknown,employed,lower-middle,single,america,1,8,1,2,0,   0
+189,18206,female,48,unknown,employed,lower-middle,single,asia,1,4,1,2,0,  0
+190,9865,female,45,unknown,unemployed,lower,single,america,0,0,4,1,0, 2
+191,7194,female,42,unknown,unemployed,lower-middle,single,america,0,0,5,2,1,    2
+192,13168,female,43,unknown,unemployed,lower-middle,single,oceania,0,0,4,1,1,    2
+193,9785,female,45,unknown,employed,lower,single,europe,0,0,5,1,1,   1
+194,8934,female,42,unknown,employed,lower-middle,single,oceania,1,0,5,2,0,1
+195,6528,female,42,unknown,employed,lower-middle,single,europe,1,1,5,2,1,   1
+196,9770,female,43,unknown,employed,lower-middle,single,asia,1,1,5,1,0,    1
+197,8311,female,43,unknown,employed,lower,single,oceania,0,0,4,2,0, 2
+198,7264,female,34,grad,employed,lower,single,oceania,0,1,3,2,1,  1
+199,8305,female,32,grad,employed,lower,married,america,1,2,1,1,0,  2
+200,16012,female,31,grad,employed,lower,married,oceania,1,3,1,1,0,  3
+201,6235,female,34,grad,employed,lower,married,oceania,0,3,2,3,1,    4
+202,16095,female,33,grad,employed,lower,married,oceania,1,2,3,1,1,  3
+203,9340,female,33,grad,employed,lower,married,europe,0,3,1,2,1,    4
+204,12134,female,30,undergrad,employed,lower,married,america,0,1,1,3,0, 0
+205,2193,female,30,undergrad,employed,lower,married,asia,0,2,1,3,0,   0
+206,1756,female,54,grad,employed,lower-middle,married,america,0,1,2,2,3,    0
+207,3676,female,57,grad,employed,lower,married,europe,0,0,2,2,1, 0
+208,1533,female,58,grad,employed,lower-middle,married,asia,0,0,1,3,1,0
+209,14473,female,75,grad,employed,lower-middle,married,europe,0,1,3,3,2,  0
+210,8324,female,53,grad,employed,lower,married,asia,0,1,1,1,2,    0
+211,7341,female,44,grad,employed,middle,married,asia,1,8,7,5,1,  2
+212,1604,female,45,grad,employed,middle,married,oceania,3,8,8,5,3,  3
+213,7100,female,44,grad,employed,middle,married,america,3,5,8,8,2,2
+214,4166,female,43,grad,employed,middle,married,oceania,1,5,6,8,1,   1
+215,10150,female,30,unknown,employed,lower-middle,married,oceania,1,3,1,1,1,    0
+216,11348,female,56,undergrad,employed,lower-middle,married,america,0,0,0,1,0,    2
+217,14785,female,63,undergrad,employed,lower-middle,single,oceania,0,0,1,3,0,    2
+218,16551,female,30,grad,employed,upper-middle,single,asia,0,1,2,8,1,   0
+219,1297,female,30,grad,employed,lower,single,europe,0,0,1,0,0,   0
+220,19400,female,30,grad,employed,lower,single,europe,0,0,2,0,0,   0
+221,19934,female,30,grad,employed,lower,single,america,0,0,2,0,1,   0
+222,10678,female,58,postgrad,employed,extreme upper,single,europe,6,13,7,5,4,    4
+223,19203,female,69,postgrad,employed,extreme upper,single,oceania,6,11,5,4,8,   4
+224,12404,female,78,postgrad,employed,extreme upper,single,asia,7,13,6,7,5,    1
+225,3752,female,38,unknown,employed,lower-middle,single,europe,0,0,3,0,0,  3
+226,1767,female,36,unknown,employed,lower-middle,single,asia,0,0,2,1,0,    2
+227,8863,female,30,grad,employed,extreme upper,married,oceania,0,11,4,13,2,  1
+228,7803,female,79,unknown,unemployed,lower-middle,married,oceania,0,0,3,7,0,   0
+229,10109,female,64,unknown,unemployed,lower-middle,married,oceania,0,0,2,7,0, 0
+230,1745,female,67,unknown,unemployed,lower,married,oceania,0,0,3,7,0, 0
+231,19183,female,47,unknown,employed,lower-middle,married,america,3,0,7,3,3,  0
+232,11321,female,49,unknown,employed,lower-middle,married,america,1,0,5,3,3,   0
+233,3944,female,33,grad,employed,lower-middle,married,asia,2,1,7,6,1,  2
+234,16676,female,31,grad,employed,lower-middle,married,america,2,1,5,5,0,  4
+235,15348,female,39,grad,employed,middle,married,america,1,0,5,6,0,    0
+236,14642,female,37,grad,employed,middle,married,asia,0,0,5,5,0,   0
+237,9539,female,39,postgrad,employed,lower-middle,married,oceania,0,0,4,1,0, 3
+238,10207,female,39,postgrad,employed,middle,married,asia,3,9,4,19,3,  0
+239,19332,female,39,postgrad,employed,middle,married,america,2,18,8,12,3,0
+240,18137,female,49,unknown,employed,lower-middle,married,europe,0,0,1,3,1,  1
+241,5999,female,47,unknown,employed,lower-middle,single,america,0,1,1,2,1,4
+242,7513,female,34,unknown,employed,lower-middle,single,oceania,3,3,5,1,0,    3
+243,3119,female,33,unknown,employed,lower-middle,single,oceania,1,1,6,3,0,  1
+244,13203,female,31,unknown,employed,lower-middle,single,oceania,2,1,7,2,1,    2
+245,1298,female,34,unknown,employed,lower-middle,single,oceania,3,3,5,2,0,   3
+246,1555,female,35,unknown,employed,lower-middle,single,europe,1,2,4,1,1,1
+247,3851,female,30,postgrad,employed,lower-middle,single,oceania,0,3,2,2,1, 0
+248,3297,female,63,postgrad,employed,lower-middle,single,america,0,1,7,1,1, 1
+249,13662,female,72,postgrad,employed,lower-middle,single,europe,0,2,5,3,1,  1
+250,14054,female,66,grad,retired,lower-middle,single,asia,0,0,1,8,1,0
+251,14020,female,32,grad,employed,lower-middle,single,asia,4,1,1,1,0,0
+252,5346,female,31,grad,employed,lower-middle,single,asia,6,1,1,2,1, 0
+253,2946,female,31,grad,employed,middle,single,oceania,4,1,2,1,0,    0
+254,1476,female,34,grad,employed,middle,single,asia,7,3,2,1,0,0
+255,15599,female,31,grad,employed,lower-middle,single,america,6,1,3,3,1,0
+256,17972,female,32,grad,employed,lower-middle,single,oceania,7,3,2,1,0,  0
+257,18032,female,34,unknown,employed,lower,single,europe,0,2,7,8,0,   2
+258,17785,female,34,unknown,employed,lower,single,oceania,0,1,6,4,0,   1
+259,15859,female,31,unknown,employed,lower,single,oceania,0,1,5,4,0,  1
+260,18606,female,34,unknown,unemployed,middle,single,asia,0,0,2,12,1,0
+261,3422,female,35,unknown,unemployed,lower-middle,single,asia,0,0,3,22,2,    0
+262,9234,female,35,unknown,unemployed,middle,single,america,0,0,2,11,2,    0
+263,8570,female,34,unknown,unemployed,lower-middle,single,europe,0,0,1,17,2,   0
+264,16616,female,34,unknown,unemployed,lower-middle,single,europe,0,0,1,10,1,0
+265,8118,female,63,postgrad,employed,lower,single,america,0,0,7,7,0,0
+266,13858,female,58,unknown,employed,lower-middle,single,america,0,0,8,2,1,3
+267,12922,female,52,unknown,employed,lower-middle,single,asia,0,0,7,2,1, 2
+268,2445,female,78,unknown,employed,lower-middle,single,europe,0,0,8,2,0,1
+269,2169,female,30,postgrad,employed,lower-middle,single,oceania,0,0,3,1,0,  0
+270,6141,female,30,unknown,student,lower-middle,single,asia,0,1,2,1,1, 0
+271,1143,female,30,undergrad,employed,lower,single,oceania,1,3,2,1,3,   0
+272,8276,female,30,grad,employed,lower,single,asia,0,9,1,1,0, 0
+273,10283,female,74,grad,unemployed,lower,single,europe,0,0,1,1,0,  0
+274,19622,female,61,grad,unemployed,lower,single,europe,0,0,0,0,0, 0
+275,18844,female,58,grad,unemployed,lower,single,oceania,0,0,0,0,0, 0
+276,8715,female,43,unknown,employed,lower,single,america,0,1,1,0,0,2
+277,10513,female,44,unknown,employed,lower,single,oceania,0,1,0,0,0,1
+278,14834,female,52,undergrad,employed,lower-middle,single,asia,1,1,0,0,1,   0
+279,15778,female,54,undergrad,employed,lower-middle,single,asia,0,0,0,1,3,    0
+280,2941,female,78,undergrad,employed,lower-middle,single,europe,0,0,1,1,1,   0
+281,15095,female,63,undergrad,employed,lower-middle,single,oceania,0,1,1,1,1,  0
+282,12964,female,39,postgrad,employed,lower-middle,single,asia,0,5,4,3,0,    1
+283,8812,female,39,postgrad,employed,lower,single,america,1,8,7,1,1,    2
+284,14806,female,38,postgrad,employed,lower,single,oceania,1,4,5,2,0,    2
+285,10738,female,38,postgrad,employed,lower-middle,single,asia,1,8,8,1,1,    2
+286,7504,female,35,grad,employed,lower-middle,single,europe,1,0,5,15,0,    1
+287,12608,female,31,grad,employed,lower-middle,single,asia,0,0,5,12,0,   2
+288,13574,female,30,postgrad,unemployed,middle,single,europe,6,1,8,6,2,0
+289,3187,female,30,postgrad,unemployed,middle,single,oceania,4,3,8,8,3,  0
+290,2639,female,43,undergrad,employed,lower-middle,single,asia,0,1,4,7,2,2
+291,5548,female,44,undergrad,employed,lower-middle,single,asia,0,0,8,4,2,  1
+292,7286,female,45,undergrad,employed,lower,single,america,0,0,7,4,2,   3
+293,4288,female,45,undergrad,employed,lower-middle,single,europe,0,1,7,5,2, 4
+294,17862,female,32,grad,employed,lower,single,europe,7,1,2,8,2,    2
+295,3591,female,31,grad,employed,lower-middle,single,asia,8,1,1,8,3, 1
+296,9563,female,75,postgrad,employed,lower-middle,single,oceania,2,7,5,8,1,  0
+297,11970,female,60,postgrad,employed,lower-middle,single,oceania,3,4,6,4,1,   0
+298,3605,female,66,postgrad,employed,lower-middle,married,asia,1,8,8,5,2,   0
+299,19477,female,59,postgrad,employed,lower-middle,married,america,1,6,5,5,2,  0
+300,5918,female,30,postgrad,employed,middle,married,america,1,0,1,12,1,    0
+301,6177,female,54,postgrad,retired,lower-middle,married,asia,0,0,5,3,0,0
+302,13397,female,75,postgrad,retired,lower-middle,married,asia,0,0,7,3,0,   0
+303,9045,female,51,postgrad,retired,lower-middle,married,europe,0,0,7,3,0,    0
+304,15769,female,61,postgrad,retired,lower-middle,married,europe,0,0,7,2,0, 0
+305,14957,female,30,undergrad,unemployed,lower,married,america,1,0,5,2,0,   2
+306,18762,female,63,postgrad,unemployed,lower,married,europe,0,9,1,0,1,    0
+307,2175,female,57,postgrad,unemployed,lower,married,asia,0,10,1,1,1,    0
+308,8895,female,63,postgrad,unemployed,lower,married,oceania,0,17,3,1,1,0
+309,9328,female,68,postgrad,unemployed,lower,married,asia,0,22,1,1,1,    0
+310,1300,female,74,postgrad,unemployed,lower,married,europe,0,15,1,1,1,  0
+311,10171,female,54,postgrad,unemployed,lower,married,europe,0,20,3,0,1,    0
+312,1276,female,63,postgrad,unemployed,lower,married,asia,0,11,3,0,1,0
+313,2340,female,31,undergrad,employed,lower,married,america,3,3,7,1,0, 0
+314,13501,female,35,undergrad,employed,lower,married,oceania,2,2,8,2,1,  0
+315,17545,female,32,undergrad,employed,lower,single,asia,3,3,4,2,1,0
+316,9718,female,33,undergrad,employed,lower,single,oceania,3,1,7,3,1, 0
+317,8055,female,34,undergrad,employed,lower,single,oceania,2,3,4,2,0,  0
+318,6555,female,33,undergrad,employed,lower,single,europe,3,3,8,1,1,  0
+319,9794,female,45,unknown,employed,middle,single,oceania,1,0,2,3,0,    2
+320,5013,female,42,unknown,employed,middle,single,asia,0,0,1,1,1,    1
+321,17394,female,44,unknown,employed,middle,single,oceania,0,0,2,1,0,    3
+322,2970,female,32,unknown,employed,extreme upper,single,asia,1,0,9,5,2,  0
+323,17481,female,32,unknown,employed,upper,single,asia,1,0,13,6,3,0
+324,5432,female,34,postgrad,employed,middle,single,oceania,1,6,4,2,0,  3
+325,10972,female,35,postgrad,employed,middle,single,america,0,7,8,3,0,  2
+326,11958,female,34,postgrad,employed,middle,single,oceania,1,6,7,3,0,  1
+327,16777,female,32,postgrad,employed,middle,single,europe,0,4,8,3,0,2
+328,5130,female,33,postgrad,employed,middle,single,asia,1,4,6,2,0,  1
+329,17948,female,54,postgrad,employed,lower-middle,single,oceania,0,3,1,7,0,    1
+330,4494,female,75,postgrad,employed,lower-middle,single,asia,0,3,1,5,1,1
+331,16362,female,69,postgrad,employed,lower,single,europe,0,1,1,8,1,   4
+332,4715,female,73,postgrad,employed,lower,single,america,0,2,1,8,0,    1
+333,9519,female,50,postgrad,employed,lower,single,asia,0,1,1,4,1,   1
+334,16610,female,72,postgrad,employed,lower-middle,single,america,0,2,0,7,0,1
+335,15580,female,41,grad,employed,middle,single,asia,5,1,6,14,1,  0
+336,7143,female,41,grad,employed,middle,single,asia,7,2,6,13,1,0
+337,2725,female,34,undergrad,unemployed,lower-middle,single,america,0,1,1,3,3,1
+338,12348,female,33,undergrad,unemployed,lower-middle,single,europe,0,1,2,1,3,  1
+339,17946,female,34,unknown,employed,upper-middle,single,america,0,1,10,6,1, 0
+340,16133,female,31,unknown,employed,upper,single,asia,0,0,22,6,1,   0
+341,7280,female,34,unknown,employed,upper-middle,single,asia,1,1,19,4,2,    0
+342,11003,female,49,undergrad,unemployed,lower,single,america,0,0,0,0,0, 3
+343,3568,female,49,undergrad,unemployed,lower,single,europe,0,0,1,0,0, 1
+344,4446,female,47,undergrad,unemployed,lower,single,asia,0,0,0,0,0,    1
+345,12886,female,48,undergrad,unemployed,lower,single,america,0,0,1,1,0, 2
+346,15768,female,46,undergrad,unemployed,lower,single,europe,0,0,1,0,0,    2
+347,9619,female,73,postgrad,unemployed,lower,single,asia,0,5,3,2,0, 0
+348,11539,female,66,postgrad,unemployed,lower,single,europe,0,7,2,3,0,    0
+349,15821,female,45,postgrad,employed,middle,single,asia,0,1,23,4,0, 2
+350,13884,female,42,postgrad,employed,middle,married,europe,1,3,17,5,0,2
+351,18591,female,45,postgrad,employed,middle,married,oceania,0,1,20,4,1,1
+352,15389,female,45,postgrad,employed,middle,married,america,1,1,18,4,1,  3
+353,9412,female,42,postgrad,employed,middle,married,oceania,1,3,23,4,1,    4
+354,6254,female,31,unknown,employed,extreme upper,married,asia,1,0,9,5,0,0
+355,8421,female,33,unknown,employed,extreme upper,married,oceania,1,1,15,5,0,    0
+356,3069,female,34,unknown,employed,extreme upper,married,europe,0,1,9,7,0,    0
+357,11323,female,35,postgrad,employed,lower,married,europe,0,3,0,3,1,   1
+358,17672,female,33,postgrad,employed,lower,married,asia,0,1,0,2,3,1
+359,16167,female,33,postgrad,employed,lower,married,oceania,0,2,1,1,2,1
+360,13817,female,68,grad,retired,lower,married,oceania,0,7,19,19,1, 1
+361,16077,female,56,grad,retired,lower,married,europe,0,4,9,12,0,    2
+362,3335,female,64,grad,retired,lower,married,asia,0,8,19,17,0,1
+363,2804,female,45,grad,employed,extreme upper,married,america,1,0,1,1,1,1
+364,18736,female,42,grad,employed,upper-middle,single,asia,1,0,0,1,3,    1
+365,17884,female,72,unknown,employed,lower-middle,single,europe,0,2,0,3,1,4
+366,9287,female,30,grad,employed,upper-middle,single,asia,11,0,1,1,1,    0
+367,13487,female,30,grad,employed,upper-middle,single,asia,11,1,3,2,2,  0
+368,1460,female,30,grad,employed,lower-middle,single,europe,0,0,7,3,0,0
+369,6662,female,76,grad,employed,lower-middle,single,oceania,4,5,2,2,1,  2
+370,12354,female,33,postgrad,employed,middle,single,oceania,0,0,1,0,0,    2
+371,7033,female,34,postgrad,employed,middle,single,america,0,0,0,0,0, 1
+372,19268,female,33,postgrad,employed,middle,single,asia,0,0,1,0,0,  2
+373,17239,female,43,unknown,unemployed,lower,single,europe,0,2,2,7,1,    1
+374,8988,female,44,unknown,unemployed,lower,married,oceania,0,1,2,5,1,1
+375,15763,female,36,unknown,employed,lower,married,europe,0,1,17,8,1, 1
+376,17430,female,37,unknown,employed,lower,married,asia,0,1,21,5,1,   2
+377,6999,female,36,unknown,employed,lower,married,america,0,1,20,6,1,  1
+378,5996,female,36,unknown,employed,lower,married,oceania,0,0,12,5,0, 2
+379,19961,female,37,unknown,employed,lower,married,america,0,2,0,2,6,  1
+380,10916,female,40,unknown,employed,lower,married,europe,0,1,1,2,5,  1
+381,3352,female,39,unknown,employed,lower,married,europe,0,1,1,3,8,    1
+382,14056,female,36,unknown,employed,lower,married,oceania,0,2,0,3,8,   4
+383,8026,female,32,grad,unemployed,extreme upper,married,oceania,0,7,19,8,0,   0
+384,14061,female,32,grad,unemployed,upper-middle,married,oceania,0,6,17,4,1,   0
+385,9709,female,33,unknown,employed,extreme upper,married,europe,1,1,19,7,0,    0
+386,14964,female,34,unknown,employed,extreme upper,married,america,1,0,22,4,1,    0
+387,2939,female,35,unknown,employed,extreme upper,married,oceania,0,0,16,5,0,   0
+388,1425,female,34,unknown,employed,extreme upper,married,asia,0,1,22,6,0,  0
+389,12792,female,33,unknown,employed,extreme upper,married,asia,0,1,20,4,1,    0
+390,10062,female,31,unknown,employed,extreme upper,married,asia,0,0,20,5,0,  0
+391,11356,female,66,grad,employed,lower-middle,married,asia,0,5,3,1,1,2
+392,17418,female,52,grad,employed,lower-middle,married,oceania,1,4,1,1,3,  1
+393,8106,female,66,grad,employed,lower-middle,married,europe,1,7,1,2,3,1
+394,14677,female,30,unknown,employed,lower-middle,married,america,0,1,2,17,16,    0
+395,14720,female,30,unknown,employed,lower-middle,married,asia,0,0,2,16,16, 0
+396,9066,female,51,unknown,employed,lower-middle,married,asia,0,0,6,3,1,    1
+397,14181,female,62,unknown,employed,lower-middle,married,america,0,0,6,2,1,   1
+398,2312,female,68,unknown,employed,middle,married,america,1,0,6,2,1,1
+399,1270,female,60,unknown,employed,middle,single,oceania,0,0,4,1,0,  4
+400,13982,female,45,undergrad,employed,middle,single,asia,0,1,0,1,1,  4
+401,12545,female,41,undergrad,employed,middle,single,asia,0,1,1,1,0, 4
+402,3498,female,42,undergrad,employed,middle,single,asia,0,0,0,0,1, 2
+403,14959,female,49,postgrad,unemployed,extreme upper,single,america,0,0,0,2,1,0
+404,3579,female,46,postgrad,unemployed,upper-middle,single,oceania,0,0,1,1,0,0
+405,12304,female,48,postgrad,unemployed,extreme upper,single,europe,0,1,0,2,1,   0
+406,19673,female,47,grad,employed,lower,single,asia,1,7,8,2,1,   0
+407,5615,female,48,grad,employed,lower,single,asia,2,7,6,2,1,  0
+408,5218,female,49,grad,employed,lower,single,oceania,2,4,6,2,1,    0
+409,9497,female,46,grad,employed,lower,single,america,2,5,8,2,0,    0
+410,4986,female,46,grad,employed,lower,single,asia,1,5,4,1,1,  0
+411,17395,female,47,grad,employed,lower,single,oceania,2,5,8,1,1,    0
+412,4023,female,46,grad,employed,lower,single,oceania,2,6,6,1,0, 0
+413,10537,female,40,undergrad,employed,middle,single,asia,1,0,4,3,0,3
+414,15269,female,37,undergrad,employed,middle,single,america,1,0,5,3,1,   4
+415,4599,female,37,undergrad,employed,middle,single,asia,1,0,6,2,0,  1
+416,5592,female,38,undergrad,employed,middle,single,america,0,0,4,2,1,    1
+417,6155,female,42,postgrad,employed,middle,single,asia,0,4,15,3,1, 1
+418,18735,female,43,postgrad,employed,middle,single,america,1,4,16,2,1,    2
+419,17399,female,64,grad,employed,lower,single,europe,0,8,7,11,1,    1
+420,8384,female,55,grad,employed,lower,single,america,1,4,8,20,1,  2
+421,8968,female,72,grad,employed,lower,single,america,1,6,4,10,1, 2
+422,19718,female,53,grad,employed,lower,single,oceania,1,6,7,9,0,1
+423,6229,female,71,grad,employed,lower,single,asia,0,7,7,12,1,   0
+424,5499,female,76,grad,employed,lower-middle,single,europe,0,6,6,16,1,    0
+425,16071,female,55,grad,employed,lower,single,asia,0,8,6,23,1,  0
+426,6910,female,54,grad,employed,lower,married,europe,0,7,7,21,1,  0
+427,18859,female,69,unknown,employed,upper-middle,married,oceania,0,23,1,3,0,1
+428,18155,female,76,undergrad,employed,middle,married,asia,3,6,9,4,6,   2
+429,1326,female,79,undergrad,employed,middle,married,europe,3,4,13,6,5,  2
+430,8078,female,65,undergrad,employed,middle,married,europe,1,6,12,8,5,   1
+431,2918,female,62,undergrad,employed,middle,married,america,3,6,17,5,6,   2
+432,10817,female,31,unknown,employed,extreme upper,married,america,1,1,14,8,0, 0
+433,19411,female,31,unknown,employed,extreme upper,married,asia,1,1,14,4,1, 0
+434,11524,female,41,postgrad,employed,middle,married,asia,1,1,4,1,0,   1
+435,6432,female,41,postgrad,employed,middle,married,america,0,3,5,3,0,   1
+436,2937,female,35,unknown,employed,extreme upper,married,europe,0,0,12,8,1,0
+437,14873,female,34,unknown,employed,upper-middle,single,oceania,1,0,12,8,1,   0
+438,16560,female,34,unknown,employed,extreme upper,single,america,1,1,11,6,0,    0
+439,2436,female,31,undergrad,student,middle,single,europe,0,7,6,0,1, 1
+440,15849,female,31,undergrad,student,middle,single,oceania,0,5,7,0,1,1
+441,6475,female,33,undergrad,student,upper-middle,single,europe,0,5,8,1,1,  4
+442,4361,female,33,undergrad,student,middle,single,america,0,6,5,0,1, 3
+443,16332,female,48,undergrad,employed,lower-middle,single,america,1,1,1,3,0,1
+444,18998,female,49,undergrad,employed,lower-middle,single,america,0,1,1,1,0,  3
+445,19775,female,47,undergrad,employed,lower-middle,single,america,0,0,1,2,0,  1
+446,17264,female,48,undergrad,employed,lower-middle,single,oceania,1,0,2,2,0,  1
+447,19320,female,48,undergrad,employed,lower-middle,single,asia,0,1,3,3,0,  1
+448,18639,female,46,undergrad,employed,lower-middle,single,asia,0,0,3,1,0,  1
+449,1321,female,30,grad,employed,extreme upper,single,america,2,3,8,5,0,    1
+450,9120,female,48,grad,employed,lower,single,oceania,0,2,1,3,1, 4
+451,19101,female,49,grad,employed,lower-middle,single,america,0,2,3,3,2,    3
+452,4532,female,55,undergrad,retired,lower,single,europe,0,0,0,0,0,4
+453,2381,female,68,unknown,unemployed,lower-middle,married,europe,0,0,5,2,1, 3
+454,5269,female,46,unknown,employed,lower-middle,married,asia,0,1,11,7,3,0
+455,6102,female,46,unknown,employed,lower-middle,married,europe,0,1,23,5,1, 0
+456,5923,female,47,unknown,employed,lower-middle,married,europe,0,2,15,6,1,  0
+457,14604,female,46,unknown,employed,lower-middle,married,europe,0,3,20,5,1,0
+458,17913,female,49,unknown,employed,lower-middle,married,america,0,3,15,8,3, 0
+459,2834,female,48,unknown,employed,lower-middle,married,asia,0,3,13,7,2,    0
+460,13220,female,48,unknown,employed,lower-middle,married,oceania,0,3,14,5,3, 0
+461,16212,female,49,unknown,employed,lower-middle,married,america,0,2,11,6,3,0
+462,18181,female,61,grad,employed,upper-middle,married,america,0,1,4,3,3,1
+463,5919,female,59,grad,employed,lower-middle,married,america,1,5,0,2,1,0
+464,7778,female,64,grad,employed,middle,married,oceania,1,8,1,3,0,0
+465,18680,female,37,undergrad,employed,lower,married,america,0,6,3,1,0, 0
+466,5076,female,38,undergrad,employed,lower,married,america,1,4,2,0,0,    0
+467,13554,female,38,undergrad,employed,lower,married,america,1,6,1,1,0,0
+468,15809,female,38,undergrad,employed,lower,married,america,1,6,1,1,1,0
+469,5487,female,37,grad,employed,lower,married,america,0,1,1,0,0,  1
+470,4221,female,36,grad,employed,lower,married,europe,0,0,1,0,0, 2
+471,11102,female,37,grad,employed,lower,married,oceania,0,1,3,0,0,2
+472,11316,female,39,grad,employed,lower,married,europe,0,0,3,1,0,  1
+473,11201,female,38,grad,employed,lower,married,asia,0,1,1,1,0, 4
+474,2093,female,40,grad,employed,lower,married,oceania,0,0,2,1,0, 2
+475,11030,female,76,unknown,unemployed,lower,married,america,0,1,1,2,1,    4
+476,10856,female,54,unknown,unemployed,lower,married,oceania,0,2,0,1,0,  1
+477,7945,female,50,unknown,unemployed,lower,married,europe,0,3,0,2,0,  1
+478,14275,female,65,unknown,unemployed,lower,married,oceania,0,2,1,1,0, 1
+479,19879,female,32,undergrad,employed,middle,married,asia,0,0,5,3,1, 0
+480,7154,female,38,postgrad,employed,upper-middle,married,europe,2,5,8,4,1,   1
+481,1574,female,38,postgrad,employed,upper-middle,married,asia,1,8,6,7,1,2
+482,1834,female,40,postgrad,employed,middle,married,oceania,3,4,6,6,3, 2
+483,19806,female,37,postgrad,employed,upper-middle,married,oceania,1,4,5,4,2, 1
+484,2665,female,38,postgrad,employed,middle,married,oceania,1,5,4,4,2,  3
+485,2928,female,40,postgrad,employed,middle,married,oceania,1,5,8,4,3,   3
+486,5742,female,39,postgrad,employed,middle,married,america,3,4,4,5,1,   2
+487,14184,female,58,unknown,employed,lower,married,oceania,0,0,1,5,0,    1
+488,10946,female,57,unknown,employed,lower,married,oceania,0,0,2,6,0,  1
+489,5664,female,60,unknown,employed,lower,married,europe,0,0,1,8,1,1
+490,1090,female,31,unknown,employed,extreme upper,single,oceania,0,1,13,7,1,0
+491,6078,female,77,grad,employed,lower-middle,single,america,0,0,7,2,0,    2
+492,16928,female,53,grad,employed,lower-middle,single,america,0,1,8,3,0, 4
+493,18564,female,33,grad,unemployed,extreme upper,single,america,0,5,7,4,1, 1
+494,18229,female,32,grad,unemployed,extreme upper,single,asia,0,6,7,8,1,  2
+495,9992,female,40,unknown,employed,lower,single,europe,0,14,8,5,0,  1
+496,15133,female,39,unknown,employed,lower,single,america,0,11,6,5,1, 1
+497,13177,female,37,unknown,employed,lower-middle,single,asia,0,23,4,6,1, 3
+498,17577,female,36,unknown,employed,lower-middle,single,oceania,0,22,5,7,1,1
+499,4951,female,31,postgrad,student,lower-middle,single,oceania,2,1,1,2,0,    0
+500,18459,female,32,postgrad,student,lower-middle,single,america,3,0,1,3,1,  0
+501,17322,female,32,postgrad,student,lower,single,oceania,1,0,2,3,0,  0
+502,1795,female,34,postgrad,student,lower-middle,single,america,2,0,2,1,0,  0
+503,9705,female,57,grad,unemployed,middle,single,america,0,7,3,6,3, 2
+504,5328,female,34,grad,unemployed,lower-middle,single,asia,1,8,8,19,2,1
+505,1883,female,31,unknown,employed,lower,single,america,0,1,7,21,14, 2
+506,19191,female,30,unknown,unemployed,lower-middle,single,oceania,0,0,1,0,0,    1
+507,11580,female,44,grad,employed,middle,single,asia,0,0,2,3,1,   2
+508,14108,female,45,grad,employed,middle,single,oceania,1,0,2,1,1,    1
+509,13352,female,45,grad,employed,middle,single,oceania,1,0,1,1,0,    3
+510,14583,female,45,grad,employed,middle,single,asia,1,0,3,1,1,    3
+511,11134,female,43,grad,employed,middle,single,america,0,1,1,1,0,1
+512,9549,female,45,postgrad,employed,extreme upper,single,asia,0,22,8,6,4,   1
+513,8383,female,45,postgrad,employed,extreme upper,single,oceania,0,9,4,7,8,    1
+514,18266,female,34,postgrad,employed,lower-middle,single,oceania,1,2,1,3,1,    0
+515,2407,female,34,postgrad,employed,middle,single,asia,0,2,1,2,0,    0
+516,9886,female,31,postgrad,employed,middle,single,europe,0,1,1,3,1,   0
+517,16345,female,31,undergrad,employed,lower-middle,single,asia,0,3,3,2,0,   0
+518,11877,female,33,undergrad,employed,lower-middle,single,europe,0,3,3,2,1,0
+519,1126,female,32,undergrad,employed,lower-middle,single,europe,0,2,2,2,1, 0
+520,14264,female,31,undergrad,employed,lower-middle,single,oceania,0,3,3,3,1,0
+521,6701,female,32,grad,student,lower-middle,single,america,0,0,21,6,1, 2
+522,8080,female,32,grad,student,lower-middle,single,america,0,1,17,5,0,3
+523,19873,female,31,grad,student,lower-middle,single,europe,0,0,13,5,1,1
+524,1185,female,32,grad,student,lower-middle,single,asia,0,0,17,6,1,  1
+525,10354,female,36,undergrad,employed,lower,single,asia,0,1,3,1,0,   0
+526,8663,female,38,undergrad,employed,lower,single,asia,0,0,2,0,1,0
+527,5421,female,40,undergrad,employed,lower,single,asia,1,0,2,0,0,    0
+528,9458,female,40,unknown,unemployed,lower,single,oceania,0,0,7,0,0,2
+529,4122,female,41,postgrad,employed,middle,single,america,0,4,22,1,0, 1
+530,1179,female,55,grad,employed,lower,single,america,0,3,4,0,0, 1
+531,14072,female,64,grad,employed,lower,single,america,0,1,6,1,0, 4
+532,9800,female,58,grad,employed,lower,single,asia,0,2,7,1,0,    1
+533,3616,female,72,grad,employed,lower,single,america,0,1,6,0,0,1
+534,4449,female,60,grad,employed,lower,single,america,0,1,8,1,1,  2
+535,4732,female,61,grad,employed,lower,single,oceania,0,1,7,1,0, 1
+536,11422,female,65,grad,employed,lower,single,asia,0,2,6,1,0, 1
+537,3108,female,63,grad,employed,lower,single,europe,0,2,5,1,0,2
+538,6918,female,45,unknown,employed,upper,single,oceania,0,13,22,23,6,   2
+539,19315,female,41,unknown,employed,upper-middle,single,america,0,11,18,15,5,1
+540,9547,female,43,unknown,employed,extreme upper,single,america,0,15,13,17,4,   1
+541,7007,female,43,unknown,employed,upper-middle,married,europe,1,3,7,6,2,0
+542,14150,female,44,unknown,employed,upper-middle,married,europe,1,3,8,4,1,0
+543,2801,female,44,unknown,employed,middle,married,america,1,2,6,4,3,  0
+544,5908,female,42,unknown,employed,upper-middle,married,america,3,1,6,4,1,    0
+545,1026,female,44,unknown,employed,middle,married,oceania,2,3,6,7,2,    0
+546,3280,female,43,unknown,employed,upper-middle,married,europe,1,1,6,5,3,   0
+547,13486,female,44,unknown,employed,middle,married,america,3,1,8,6,1, 0
+548,18021,female,44,postgrad,employed,middle,married,america,1,2,6,3,0, 4
+549,2775,female,45,postgrad,employed,middle,married,america,1,1,4,3,0, 2
+550,13051,female,45,postgrad,employed,middle,married,europe,0,2,5,3,0,  1
+551,3835,female,43,postgrad,employed,middle,married,america,1,2,7,2,0,  2
+552,16075,female,44,postgrad,employed,middle,married,europe,1,3,7,3,0,    2
+553,18943,female,44,postgrad,employed,middle,married,oceania,1,2,5,2,0,   1
+554,12537,female,64,undergrad,employed,lower-middle,married,america,0,20,5,3,0,  1
+555,14818,female,51,undergrad,employed,lower-middle,married,asia,0,20,7,3,0, 2
+556,12597,female,30,grad,employed,lower,married,europe,1,0,1,1,1,    0
+557,15729,female,41,undergrad,unemployed,middle,married,asia,1,0,1,0,0,   3
+558,11724,female,41,undergrad,unemployed,middle,married,europe,0,0,0,1,1,4
+559,2910,female,43,undergrad,unemployed,middle,married,oceania,1,0,1,1,0,   2
+560,7967,female,44,undergrad,unemployed,middle,married,oceania,1,0,1,0,0,1
+561,11349,female,71,undergrad,employed,lower,married,america,1,0,8,3,0,3
+562,2150,female,64,undergrad,employed,lower,married,asia,1,0,7,2,0,    2
+563,2047,female,49,grad,employed,extreme upper,married,america,0,6,4,3,19,   1
+564,19877,female,46,grad,employed,upper,married,america,0,5,5,2,17,    1
+565,6355,female,48,grad,employed,upper,married,europe,0,4,8,1,11,   3
+566,13241,female,62,undergrad,retired,lower,single,oceania,0,0,5,1,23,   4
+567,7002,female,65,undergrad,retired,lower,single,america,0,0,8,1,13,   1
+568,16849,female,50,undergrad,retired,lower,single,america,0,0,8,2,9,1
+569,4144,female,35,grad,employed,lower-middle,single,oceania,0,5,0,5,1,0
+570,8407,female,39,grad,employed,lower-middle,single,america,0,19,3,2,1,    1
+571,15608,female,78,grad,unemployed,lower-middle,single,asia,0,0,1,1,3,    1
+572,18176,female,54,grad,unemployed,lower-middle,single,europe,0,0,2,1,2,   1
+573,15662,female,78,grad,unemployed,lower-middle,single,europe,0,0,3,3,1, 1
+574,13256,female,51,grad,unemployed,lower-middle,single,europe,0,0,2,3,3,3
+575,13438,female,71,grad,unemployed,lower-middle,single,asia,0,0,2,2,1, 1
+576,8520,female,57,grad,unemployed,lower-middle,single,asia,0,0,1,2,2,    3
+577,9692,female,59,grad,unemployed,lower-middle,single,asia,0,0,2,3,1,   2
+578,18262,female,30,unknown,employed,lower-middle,single,oceania,2,0,7,4,1, 0
+579,4490,female,30,unknown,employed,lower-middle,single,europe,2,0,7,7,0,   0
+580,2681,female,74,unknown,employed,lower,single,america,0,1,1,2,1, 4
+581,3117,female,65,unknown,employed,lower,single,america,0,0,2,1,0,  2
+582,17912,female,60,unknown,employed,lower,single,america,0,0,1,1,0,   1
+583,11973,female,35,postgrad,unemployed,middle,single,oceania,0,0,3,0,1,1
+584,17962,female,41,grad,employed,lower,single,oceania,0,20,1,3,0,1
+585,16927,female,44,grad,employed,lower,single,europe,0,12,1,3,0,   1
+586,13569,female,45,grad,employed,lower,single,oceania,0,14,1,1,0,   2
+587,7797,female,33,grad,employed,lower-middle,single,asia,0,0,8,8,1,    3
+588,12957,female,35,grad,employed,lower-middle,single,america,0,0,8,5,1,    1
+589,2809,female,46,grad,employed,lower-middle,single,oceania,0,1,0,1,0,0
+590,8508,female,49,grad,employed,lower-middle,married,oceania,0,1,0,0,0,0
+591,13689,female,46,grad,employed,lower-middle,married,asia,0,0,0,1,0, 0
+592,7837,female,44,unknown,employed,lower-middle,married,america,0,3,3,2,0,    1
+593,4640,female,30,postgrad,employed,lower,married,america,2,2,1,22,1,0
+594,9817,female,46,unknown,employed,lower-middle,married,asia,0,0,3,0,0,  2
+595,12524,female,33,postgrad,employed,lower-middle,married,europe,1,4,8,4,7,   0
+596,10979,female,34,postgrad,employed,lower-middle,married,asia,3,5,7,7,4,0
+597,8978,female,33,postgrad,employed,middle,married,asia,3,4,5,7,7,    0
+598,1736,female,36,postgrad,employed,upper-middle,married,europe,0,0,3,8,0,1
+599,19316,female,38,postgrad,employed,middle,married,oceania,0,0,3,6,0,   2
+600,7900,female,36,postgrad,employed,upper-middle,married,asia,1,1,2,6,1,1
+601,6930,female,39,postgrad,employed,middle,married,oceania,1,1,1,8,0,  3
+602,5780,female,34,grad,employed,lower-middle,married,asia,0,0,3,0,0,3
+603,11438,female,33,grad,employed,lower,married,oceania,0,0,2,0,0,   1
+604,13407,female,57,postgrad,retired,lower,married,oceania,2,7,7,6,0,    2
+605,9556,female,66,postgrad,retired,lower,married,europe,2,7,7,5,1,1
+606,9398,female,68,postgrad,retired,lower,married,oceania,3,4,6,8,1,2
+607,11653,female,74,postgrad,retired,lower,married,asia,3,5,4,6,0,  2
+608,3988,female,34,unknown,employed,middle,married,europe,1,3,19,5,2,0
+609,11355,female,42,undergrad,unemployed,middle,married,asia,0,0,5,2,1,3
+610,15304,female,41,undergrad,unemployed,middle,married,europe,0,0,5,2,1,   1
+611,9183,female,42,undergrad,unemployed,middle,married,america,0,1,4,1,1, 3
+612,15334,female,43,undergrad,unemployed,middle,married,asia,0,1,7,2,1,    1
+613,3598,female,41,undergrad,unemployed,middle,married,asia,0,1,6,3,1, 3
+614,1091,female,42,undergrad,unemployed,middle,married,oceania,0,0,6,3,0,    4
+615,4955,female,45,undergrad,unemployed,middle,married,europe,0,0,5,1,1,   4
+616,12386,female,39,grad,unemployed,upper-middle,married,asia,1,3,3,1,0,  4
+617,17579,female,38,grad,unemployed,middle,single,asia,0,1,3,1,0,    1
+618,12309,female,36,grad,unemployed,middle,single,america,1,3,1,1,1,1
+619,3141,female,38,grad,unemployed,middle,single,europe,0,3,1,0,0,   2
+620,6646,female,39,grad,unemployed,middle,single,oceania,1,2,2,0,1,  2
+621,1930,female,35,unknown,employed,extreme upper,single,europe,1,0,15,8,1, 0
+622,9417,female,31,unknown,employed,extreme upper,married,america,0,0,16,4,1,0
+623,11780,female,32,unknown,employed,extreme upper,married,asia,1,0,9,4,0,   0
+624,9932,female,34,unknown,employed,upper-middle,married,asia,0,0,17,5,1,  0
+625,11816,female,35,unknown,employed,lower,married,asia,1,20,7,4,21,  1
+626,11692,female,32,unknown,employed,lower,married,america,2,17,8,8,12,2
+627,1060,female,46,unknown,employed,lower-middle,married,america,0,0,2,1,1,    2
+628,19627,female,48,unknown,employed,lower-middle,married,asia,0,1,2,1,2,1
+629,19993,female,49,unknown,employed,lower-middle,married,asia,0,1,2,2,1,   1
+630,15724,female,47,unknown,employed,lower-middle,married,oceania,0,0,2,2,1,  4
+631,16074,female,48,unknown,employed,lower-middle,married,asia,0,0,1,1,1,   1
+632,7299,female,46,unknown,employed,lower-middle,married,oceania,0,1,1,2,1,1
+633,17015,female,47,unknown,employed,lower-middle,married,oceania,0,0,1,2,3,    1
+634,19317,female,72,undergrad,retired,lower,married,oceania,0,0,1,8,0,   2
+635,19206,female,66,undergrad,retired,lower,married,europe,0,0,3,5,1,   1
+636,3200,female,37,grad,employed,upper-middle,married,europe,1,21,5,3,0, 1
+637,7164,female,38,grad,employed,upper-middle,married,america,1,11,4,1,1,    4
+638,14257,female,39,grad,employed,middle,married,america,1,14,5,3,1,    1
+639,13334,female,37,grad,employed,middle,married,oceania,1,12,6,3,1,1
+640,6165,female,49,unknown,employed,lower-middle,married,america,0,0,2,1,1,   0
+641,1292,female,46,unknown,employed,lower-middle,single,oceania,0,0,2,0,0,0
+642,5345,female,48,unknown,employed,lower-middle,single,europe,0,0,2,1,1,   0
+643,13614,female,48,unknown,employed,lower-middle,single,america,0,0,1,0,0, 0
+644,4730,female,73,unknown,retired,lower-middle,single,europe,0,1,1,3,2,  2
+645,13122,female,68,unknown,retired,lower-middle,single,oceania,0,1,1,3,1,2
+646,11636,female,34,grad,employed,extreme upper,single,america,0,1,1,1,1, 0
+647,5374,female,31,grad,employed,extreme upper,single,oceania,0,0,0,2,1,    0
+648,9420,female,39,unknown,employed,lower,single,america,0,3,2,1,0, 4
+649,16288,female,38,unknown,employed,lower,single,asia,0,3,2,1,1,  1
+650,17638,female,40,unknown,employed,lower,single,europe,0,2,1,1,0,    2
+651,10733,female,30,unknown,unemployed,lower-middle,single,asia,1,8,1,4,1,  3
+652,2884,female,30,grad,employed,lower-middle,single,oceania,0,1,1,3,0,   0
+653,13417,female,71,grad,retired,lower-middle,single,europe,0,0,6,1,0,  2
+654,4510,female,64,grad,retired,lower-middle,single,oceania,0,1,6,2,0,  2
+655,10391,female,70,grad,retired,lower-middle,single,america,0,0,8,3,1,  1
+656,14436,female,73,grad,retired,middle,single,europe,0,1,7,1,1,  4
+657,12459,female,53,grad,retired,lower-middle,single,oceania,0,1,7,2,1,   4
+658,18872,female,32,grad,employed,lower-middle,single,america,0,3,6,14,0,0
+659,15452,female,35,grad,employed,lower,single,oceania,0,1,4,19,0, 0
+660,13163,female,67,undergrad,employed,extreme upper,single,asia,1,0,15,8,3, 4
+661,9819,female,54,undergrad,employed,extreme upper,single,europe,0,0,15,8,2,1
+662,9454,female,63,undergrad,employed,upper,single,oceania,0,0,21,6,2,    2
+663,19535,female,30,unknown,employed,lower-middle,single,asia,0,2,1,8,3,    3
+664,1908,female,39,postgrad,employed,lower-middle,single,europe,5,12,8,6,2,    1
+665,1175,female,37,postgrad,employed,middle,single,europe,7,15,8,7,3,  1
+666,8975,female,37,postgrad,student,lower,single,oceania,0,10,17,22,3,   2
+667,18431,female,38,postgrad,student,lower,single,oceania,0,20,13,21,3, 4
+668,8396,female,39,postgrad,student,lower,single,america,0,22,22,17,2,   1
+669,11707,female,30,grad,unemployed,lower,single,oceania,5,3,19,5,3, 0
+670,16966,female,30,undergrad,employed,lower,single,asia,0,0,12,8,0,0
+671,3662,female,41,unknown,employed,lower,single,asia,0,1,1,0,0,    1
+672,15327,female,31,grad,employed,lower,single,europe,5,2,3,5,1,   0
+673,17032,female,33,unknown,employed,lower-middle,single,europe,0,1,8,8,0,   1
+674,16817,female,56,unknown,employed,middle,single,oceania,0,0,4,23,1, 1
+675,7410,female,68,unknown,employed,middle,single,europe,0,0,4,9,0,   4
+676,4562,female,78,unknown,employed,middle,single,asia,0,0,6,18,1,    1
+677,17564,female,47,postgrad,employed,middle,single,oceania,0,0,19,8,0,    1
+678,13725,female,46,postgrad,employed,middle,single,europe,0,0,10,5,1,   4
+679,14966,female,58,unknown,employed,lower-middle,single,america,0,1,22,7,0, 1
+680,4983,female,72,unknown,employed,lower,single,oceania,0,0,20,4,1,   3
+681,7118,female,79,unknown,employed,lower-middle,single,america,0,0,17,6,1,  3
+682,5252,female,65,unknown,employed,lower-middle,single,america,0,0,21,8,0,   1
+683,15632,female,64,unknown,employed,lower-middle,single,oceania,0,0,19,5,0,2
+684,10197,female,65,unknown,employed,lower-middle,single,oceania,0,1,21,5,0, 2
+685,4941,female,45,grad,employed,extreme upper,single,europe,0,2,2,2,1,  2
+686,17676,female,44,grad,employed,upper-middle,single,asia,0,1,1,1,0, 2
+687,10970,female,41,grad,employed,extreme upper,single,europe,0,2,2,2,1,    1
+688,6677,female,41,grad,employed,extreme upper,single,asia,0,2,2,3,0, 2
+689,2877,female,43,grad,employed,upper,single,europe,0,2,1,1,0,    2
+690,8164,female,44,grad,employed,extreme upper,single,oceania,0,2,1,4,0,    1
+691,13712,female,43,grad,employed,extreme upper,single,oceania,0,2,3,4,0,  1
+692,8155,female,45,grad,employed,extreme upper,single,europe,0,3,1,5,0, 1
+693,18118,female,52,grad,employed,lower-middle,single,oceania,0,0,1,0,0,    1
+694,14506,female,79,grad,employed,middle,single,asia,0,0,1,0,0, 1
+695,13911,female,78,grad,employed,middle,single,oceania,0,0,0,1,0,   1
+696,5991,female,56,grad,employed,lower-middle,single,america,0,0,1,1,0,  1
+697,14871,female,70,grad,employed,lower-middle,single,asia,1,0,4,1,0,3
+698,15915,female,62,grad,employed,middle,single,europe,1,0,7,0,0,   1
+699,8974,female,68,grad,employed,lower-middle,single,europe,0,0,7,0,0, 1
+700,14740,female,34,undergrad,employed,lower-middle,single,asia,3,1,1,1,8,4
+701,7621,female,31,undergrad,employed,lower-middle,single,oceania,2,0,3,1,6,   1
+702,9059,female,34,unknown,employed,lower,single,asia,2,0,7,1,0, 4
+703,1334,female,33,unknown,employed,lower,single,asia,2,0,6,1,0,   1
+704,15414,female,32,unknown,employed,lower,single,america,1,0,6,0,0,3
+705,14329,female,31,unknown,employed,lower,single,asia,3,0,4,0,1,4
+706,9446,female,32,unknown,employed,lower,single,oceania,3,0,6,1,0,    1
+707,3711,female,31,unknown,employed,lower,single,asia,2,0,4,1,1,  2
+708,17019,female,41,grad,employed,upper-middle,single,america,3,0,0,2,1,2
+709,1796,female,33,unknown,employed,extreme upper,single,europe,1,1,1,15,1,0
+710,6086,female,49,unknown,employed,lower,single,america,0,4,3,1,1,0
+711,7198,female,49,unknown,employed,lower,single,america,1,6,2,1,1,0
+712,14937,female,41,unknown,unemployed,lower,single,asia,0,0,8,3,1,    2
+713,6326,female,42,unknown,unemployed,lower,single,america,0,0,6,1,0,   1
+714,10765,female,43,unknown,employed,lower,single,oceania,1,0,6,1,1,  1
+715,15399,female,41,unknown,employed,lower-middle,single,america,0,1,6,1,0,   2
+716,1133,female,41,unknown,employed,lower,single,oceania,1,0,5,1,1,  1
+717,2072,female,44,unknown,employed,lower-middle,single,oceania,0,0,4,1,0, 1
+718,7849,female,43,unknown,employed,lower-middle,single,europe,0,0,8,1,0,  1
+719,8181,female,34,grad,employed,lower,single,asia,1,2,2,2,1,   1
+720,16411,female,50,grad,employed,lower-middle,single,america,0,1,3,1,3,    0
+721,2991,female,58,grad,employed,lower-middle,single,oceania,0,1,2,2,3,  0
+722,12198,female,65,grad,employed,lower,single,europe,0,0,1,3,1,   0
+723,5410,female,45,grad,employed,middle,single,asia,1,6,6,7,3,3
+724,19060,female,44,grad,employed,middle,married,oceania,3,6,8,6,1,    2
+725,15996,female,51,undergrad,employed,lower,married,europe,0,0,0,2,0, 1
+726,18652,female,62,undergrad,employed,lower,married,europe,0,0,0,1,0,2
+727,12598,female,54,undergrad,employed,lower-middle,married,asia,0,0,0,3,0,   1
+728,5042,female,62,undergrad,employed,lower,married,europe,0,0,1,2,0,   2
+729,12197,female,53,undergrad,employed,lower-middle,married,america,0,0,1,1,0,  3
+730,1625,female,66,undergrad,employed,lower,married,asia,0,0,1,2,0,1
+731,15459,female,60,undergrad,employed,lower-middle,married,oceania,0,0,1,3,0,   1
+732,9505,female,69,undergrad,employed,lower-middle,married,america,0,0,1,1,0,    1
+733,9238,female,30,grad,employed,extreme upper,married,america,0,2,2,6,1,  0
+734,17313,female,54,postgrad,employed,extreme upper,married,asia,4,15,4,5,6,2
+735,8684,female,71,postgrad,employed,upper,married,asia,5,9,8,6,6,   3
+736,10151,female,38,unknown,employed,lower,married,europe,0,0,2,0,0,    3
+737,13240,female,38,unknown,employed,lower-middle,married,oceania,0,0,3,1,0,  1
+738,15757,female,37,unknown,employed,lower-middle,married,oceania,0,0,1,0,0,  4
+739,3790,female,50,unknown,unemployed,lower,married,europe,0,0,1,4,0,0
+740,8842,female,67,unknown,unemployed,lower-middle,married,europe,0,0,3,7,0,    0
+741,16632,female,57,unknown,unemployed,lower-middle,married,europe,0,0,2,5,0,   0
+742,2954,female,68,unknown,unemployed,lower,married,europe,0,0,2,4,0,   0
+743,19200,female,67,unknown,unemployed,lower,married,asia,0,0,3,8,0,    0
+744,12069,female,46,unknown,employed,lower,married,oceania,1,0,8,1,3,0
+745,14543,female,47,unknown,employed,lower-middle,married,asia,3,0,6,2,1,  0
+746,15153,female,31,grad,employed,lower-middle,single,asia,3,1,8,5,0,   4
+747,14303,female,40,grad,employed,lower-middle,single,asia,1,0,6,8,0, 0
+748,12484,female,37,grad,employed,lower-middle,single,europe,1,0,7,8,0,  0
+749,4167,female,39,grad,employed,middle,single,europe,0,0,4,5,0,0
+750,6313,female,40,postgrad,employed,lower-middle,single,america,0,0,5,2,0, 1
+751,17851,female,40,postgrad,employed,lower-middle,single,oceania,1,0,4,3,1,    1
+752,19995,female,37,postgrad,employed,middle,single,america,2,13,8,13,3,0
+753,1313,female,38,postgrad,employed,middle,single,europe,2,18,5,20,3,   0
+754,2418,female,34,unknown,employed,lower-middle,single,america,2,3,6,1,0, 1
+755,8755,female,78,postgrad,employed,lower-middle,single,america,0,2,7,3,0,    2
+756,2692,female,52,postgrad,employed,lower-middle,single,america,0,3,6,3,0,    1
+757,8360,female,57,postgrad,employed,lower-middle,married,oceania,0,3,5,2,0,   2
+758,9416,female,62,postgrad,employed,lower-middle,married,europe,1,1,5,3,0,2
+759,13233,female,70,postgrad,employed,lower-middle,married,europe,0,2,7,3,1,    1
+760,19853,female,51,grad,retired,lower-middle,married,oceania,0,0,0,7,1,0
+761,2205,female,71,grad,retired,lower-middle,married,asia,0,0,1,4,1,    0
+762,11026,female,66,grad,retired,lower-middle,single,europe,0,0,0,4,0,    0
+763,15352,female,61,grad,retired,lower-middle,single,oceania,0,0,0,8,1,  0
+764,9650,female,70,grad,retired,lower-middle,single,asia,0,0,0,8,0,   0
+765,11774,female,33,grad,employed,lower-middle,single,america,5,3,3,3,0,   0
+766,13968,female,34,grad,employed,middle,single,asia,7,2,1,3,0,0
+767,6890,female,33,unknown,employed,lower,single,europe,0,2,5,6,0,   2
+768,17179,female,33,unknown,unemployed,middle,married,america,0,0,1,14,3,   0
+769,16297,female,35,unknown,unemployed,middle,married,europe,0,0,2,18,3,0
+770,7584,female,33,unknown,unemployed,lower-middle,married,america,0,0,1,17,2, 0
+771,17908,female,66,postgrad,employed,lower,married,europe,0,0,6,5,1, 0
+772,10014,female,63,postgrad,employed,lower,married,oceania,0,0,4,4,0,  0
+773,8673,female,56,postgrad,employed,lower,married,oceania,0,0,5,4,0,  0
+774,19771,female,52,unknown,employed,lower-middle,married,asia,0,0,8,1,1,3
+775,1829,female,63,unknown,employed,lower-middle,married,asia,0,0,8,3,0,  4
+776,13265,female,76,unknown,employed,lower-middle,married,asia,0,0,6,3,1,   2
+777,2151,female,60,unknown,employed,lower-middle,married,oceania,0,0,7,1,0, 4
+778,14844,female,30,postgrad,employed,lower-middle,married,europe,0,1,2,0,0,   0
+779,13647,female,30,grad,employed,lower,married,oceania,0,14,3,2,0,0
+780,1727,female,54,grad,unemployed,lower,married,asia,0,0,1,1,0, 0
+781,9629,female,51,grad,unemployed,lower,married,europe,0,0,1,0,0, 0
+782,4515,female,57,grad,unemployed,lower,single,america,0,0,1,0,0,    0
+783,5932,female,78,grad,unemployed,lower,single,america,0,0,0,0,0,    0
+784,6175,female,77,grad,unemployed,lower,single,america,0,0,1,0,0,   0
+785,12251,female,45,unknown,employed,lower,single,asia,0,1,1,0,0,  4
+786,7929,female,41,unknown,employed,lower,single,america,0,1,0,1,0,1
+787,1801,female,41,unknown,employed,lower,single,asia,0,1,1,1,0, 1
+788,7549,female,43,unknown,employed,lower,single,america,0,0,0,0,0,    4
+789,19747,female,43,unknown,employed,lower,single,america,0,0,1,1,0,    2
+790,17508,female,44,unknown,employed,lower,single,asia,0,1,1,1,0,   2
+791,15163,female,73,undergrad,employed,lower-middle,single,america,1,0,0,1,3,0
+792,16556,female,61,undergrad,employed,lower-middle,single,asia,1,1,1,0,1,   0
+793,12508,female,59,undergrad,employed,lower-middle,single,europe,0,0,1,1,1,  0
+794,6893,female,63,undergrad,employed,lower-middle,single,oceania,0,0,0,0,2,  0
+795,15448,female,76,undergrad,employed,lower-middle,single,europe,1,1,1,1,1,  0
+796,11983,female,39,postgrad,employed,lower,single,europe,0,5,7,1,0,   4
+797,9039,female,33,grad,employed,lower-middle,single,europe,1,0,7,11,1, 2
+798,4435,female,32,grad,employed,lower-middle,single,america,0,0,5,16,1,4
+799,17668,female,31,grad,employed,lower-middle,single,oceania,0,0,5,18,0,    1
+800,4488,female,42,undergrad,employed,lower-middle,single,asia,0,1,8,8,3,    2
+801,8712,female,42,undergrad,employed,lower-middle,married,asia,1,0,4,8,2,    1
+802,17084,female,45,undergrad,employed,lower-middle,married,oceania,0,0,6,8,3,   1
+803,18291,female,44,undergrad,employed,lower,married,oceania,1,0,6,8,3, 1
+804,10449,female,42,undergrad,employed,lower-middle,married,europe,0,1,7,6,2,   1
+805,15231,female,42,undergrad,employed,lower,married,america,0,0,6,7,2,   4
+806,7890,female,43,undergrad,employed,lower-middle,married,asia,0,1,5,5,2,    2
+807,13899,female,45,undergrad,employed,lower,married,oceania,0,1,7,6,3,1
+808,3202,female,34,grad,employed,lower-middle,married,asia,6,1,1,4,1, 2
+809,13116,female,32,grad,employed,lower,single,america,7,1,2,4,3,   1
+810,1733,female,73,postgrad,employed,lower-middle,single,europe,2,5,4,6,2, 0
+811,9867,female,71,postgrad,employed,lower-middle,single,asia,1,6,7,5,2,   0
+812,16730,female,63,postgrad,employed,lower-middle,single,europe,2,4,7,4,1,  0
+813,18546,female,30,postgrad,employed,lower-middle,single,asia,1,1,1,21,1,   0
+814,2278,female,64,postgrad,retired,lower-middle,single,oceania,0,0,5,2,0,    0
+815,8569,female,59,postgrad,retired,lower-middle,single,europe,0,0,8,2,0, 0
+816,7188,female,69,postgrad,retired,lower-middle,single,oceania,0,0,6,2,0, 0
+817,14040,female,56,postgrad,retired,lower-middle,single,oceania,0,0,6,2,0, 0
+818,11210,female,30,unknown,employed,lower-middle,single,europe,1,1,1,2,0,  0
+819,9835,female,68,postgrad,unemployed,lower,single,europe,0,19,3,0,1,0
+820,5271,female,44,unknown,employed,middle,single,oceania,0,1,2,2,1,3
+821,5817,female,42,unknown,employed,middle,single,europe,1,0,2,2,0,    4
+822,10715,female,31,unknown,employed,extreme upper,single,america,1,1,13,8,3,   0
+823,19310,female,32,unknown,employed,extreme upper,single,europe,0,1,15,7,1,   0
+824,3251,female,33,postgrad,employed,middle,single,oceania,0,4,7,2,0,    1
+825,4940,female,32,postgrad,employed,middle,single,oceania,0,8,8,2,0,2
+826,1036,female,33,postgrad,employed,middle,single,asia,1,4,7,3,0,  2
+827,5974,female,38,postgrad,student,lower,single,oceania,0,13,23,13,2,  2
+828,15431,female,39,postgrad,student,lower,single,america,0,23,21,15,1,2
+829,11048,female,39,postgrad,student,lower,single,oceania,0,22,22,17,3,  1
+830,18983,female,39,postgrad,student,lower,single,america,0,21,13,18,2,    1
+831,12878,female,70,postgrad,employed,lower,single,europe,0,3,1,7,0,   1
+832,3223,female,65,postgrad,employed,lower-middle,married,america,0,1,0,5,0,1
+833,2311,female,72,postgrad,employed,lower-middle,married,asia,0,2,0,8,0,  1
+834,7442,female,41,grad,employed,middle,married,america,8,3,8,19,0,0
+835,14569,female,43,grad,employed,middle,married,oceania,4,1,5,11,0,    0
+836,14023,female,41,grad,employed,middle,married,america,4,3,8,14,1,  0
+837,8933,female,43,grad,employed,middle,married,asia,5,3,7,20,1,   0
+838,18351,female,32,undergrad,unemployed,lower-middle,married,oceania,0,1,3,1,3, 4
+839,14586,female,34,undergrad,unemployed,lower-middle,married,oceania,0,2,1,1,3,   1
+840,10174,female,31,undergrad,unemployed,lower-middle,married,europe,0,2,1,1,1, 2
+841,9056,female,31,undergrad,unemployed,lower-middle,married,asia,0,2,3,1,3,  2
+842,13967,female,35,undergrad,unemployed,lower-middle,married,america,0,2,1,2,2,1
+843,14332,female,33,unknown,employed,extreme upper,married,oceania,0,1,17,7,2,    0
+844,19798,female,31,unknown,employed,extreme upper,married,oceania,1,0,18,8,3, 0
+845,2002,female,47,undergrad,unemployed,lower,single,oceania,0,0,0,0,0, 4
+846,13963,female,48,undergrad,unemployed,lower,single,america,0,0,1,0,0,1
+847,15275,female,48,undergrad,unemployed,lower,single,oceania,0,0,0,0,0,  1
+848,19104,female,48,undergrad,unemployed,lower,single,america,0,0,0,1,0,   1
+849,18455,female,47,undergrad,unemployed,lower,single,oceania,0,0,1,1,0,  1
+850,17070,female,50,postgrad,unemployed,lower,single,oceania,0,6,2,3,0,  0
+851,17012,female,76,postgrad,unemployed,lower,single,europe,0,6,2,1,0,0
+852,3319,female,69,postgrad,unemployed,lower,single,asia,0,6,3,1,0,    0
+853,11808,female,71,postgrad,unemployed,lower,single,europe,0,6,1,1,0,    0
+854,7487,female,43,postgrad,employed,middle,single,europe,1,2,9,7,0,    4
+855,5003,female,43,postgrad,employed,middle,single,oceania,0,1,14,7,1,  4
+856,10273,female,42,postgrad,employed,middle,single,america,0,1,19,5,0,  1
+857,2722,female,43,postgrad,employed,middle,single,oceania,1,3,23,5,1, 2
+858,15301,female,35,unknown,employed,extreme upper,single,asia,0,1,12,7,1,   0
+859,9035,female,34,postgrad,employed,lower,single,asia,0,3,0,1,1,1
+860,8152,female,33,postgrad,employed,lower,single,europe,0,3,0,1,2, 1
+861,17679,female,35,postgrad,employed,lower,single,europe,0,3,1,3,1,   2
+862,15485,female,57,grad,retired,lower,single,europe,0,5,23,13,0, 2
+863,3228,female,72,grad,retired,lower,single,asia,0,7,14,13,0,  1
+864,14673,female,77,grad,retired,lower,married,america,0,5,18,12,1,    1
+865,13684,female,75,grad,retired,lower,married,asia,0,5,22,19,1, 1
+866,10412,female,45,grad,employed,extreme upper,married,america,2,0,1,2,2, 3
+867,17228,female,41,grad,employed,extreme upper,married,oceania,3,0,1,1,1,   2
+868,10192,female,44,grad,employed,extreme upper,married,oceania,1,1,1,2,3,  4
+869,12848,female,42,grad,employed,extreme upper,married,oceania,3,0,0,2,2,2
+870,1788,female,44,grad,employed,extreme upper,married,america,1,1,1,1,1, 2
+871,10493,female,44,grad,employed,extreme upper,married,america,3,0,0,3,1,2
+872,6414,female,42,grad,employed,extreme upper,married,oceania,3,1,1,2,2, 2
+873,1597,female,76,unknown,employed,lower-middle,married,oceania,0,3,0,1,0,    1
+874,14609,female,58,unknown,employed,lower-middle,married,oceania,0,3,0,1,1,    4
+875,16896,female,77,unknown,employed,lower-middle,single,europe,0,3,0,1,0,  2
+876,3204,female,75,unknown,employed,lower-middle,single,europe,0,3,0,3,1,1
+877,1327,female,68,unknown,employed,lower-middle,single,oceania,0,1,0,2,1, 4
+878,4114,female,60,unknown,employed,lower-middle,single,asia,0,2,0,2,0, 1
+879,2322,female,31,postgrad,employed,lower-middle,single,oceania,0,0,1,1,0,3
+880,13974,female,42,unknown,unemployed,lower,single,europe,0,3,2,6,1,  4
+881,3957,female,43,unknown,unemployed,lower,single,asia,0,1,3,6,0, 3
+882,7390,female,41,unknown,unemployed,lower,single,europe,0,1,3,5,1,    2
+883,9255,female,39,unknown,employed,lower,single,oceania,0,1,21,7,1,   2
+884,1399,female,37,unknown,employed,lower,single,america,0,0,15,8,1,    1
+885,17401,female,37,unknown,employed,lower,single,oceania,0,1,23,5,0,   3
+886,14261,female,38,unknown,employed,lower,single,europe,0,0,22,6,0,   1
+887,12453,female,30,grad,employed,lower-middle,single,america,0,0,0,0,0,1
+888,2427,female,32,grad,unemployed,upper-middle,single,america,0,4,23,6,1,0
+889,18128,female,31,grad,unemployed,extreme upper,single,europe,0,6,21,8,0, 0
+890,19553,female,31,grad,unemployed,extreme upper,single,america,0,6,19,7,1,    0
+891,10403,female,31,unknown,employed,upper,single,oceania,0,1,23,8,1,    0
+892,12800,female,31,unknown,employed,upper-middle,single,asia,1,0,11,7,0,0
+893,12596,female,50,grad,employed,lower-middle,single,america,0,8,3,3,2,  3
+894,5638,female,32,grad,employed,middle,single,america,0,5,6,10,6,1
+895,17233,female,34,grad,employed,middle,single,america,0,6,6,19,4,2
+896,15571,female,34,grad,employed,middle,single,america,0,4,7,9,4,1
+897,13200,female,34,grad,employed,middle,single,europe,0,8,5,20,8,   3
+898,18036,female,35,grad,employed,middle,single,oceania,0,6,6,13,7,    1
+899,2268,female,31,grad,employed,middle,single,asia,0,4,4,21,5,   1
+900,9821,female,31,grad,employed,middle,married,america,0,8,5,23,5, 2
+901,10810,female,78,unknown,employed,lower-middle,married,asia,1,0,6,3,0,    2
+902,8930,female,52,unknown,employed,lower-middle,married,asia,1,0,4,3,1, 1
+903,5558,female,57,unknown,employed,middle,married,europe,1,0,8,1,0,  4
+904,4503,female,45,undergrad,employed,middle,married,america,0,1,0,0,1,2
+905,18609,female,48,postgrad,unemployed,extreme upper,married,america,0,0,0,3,1, 0
+906,3379,female,49,postgrad,unemployed,extreme upper,married,america,0,1,1,3,0,0
+907,15298,female,48,grad,employed,lower,married,oceania,3,7,4,2,0,   0
+908,1014,female,40,undergrad,employed,middle,married,oceania,1,0,8,2,1,   4
+909,8944,female,36,undergrad,employed,middle,married,oceania,0,0,8,2,0,   1
+910,14838,female,38,undergrad,employed,middle,married,oceania,1,0,8,2,1,   1
+911,8315,female,39,undergrad,employed,middle,married,oceania,0,0,6,2,1,  1
+912,15249,female,36,undergrad,employed,middle,married,europe,1,0,4,3,1,  1
+913,12871,female,38,undergrad,employed,middle,married,oceania,0,0,4,1,0, 1
+914,11168,female,41,postgrad,employed,middle,married,asia,0,4,18,1,0,  1
+915,4358,female,41,postgrad,employed,middle,married,europe,1,4,22,1,1,2
+916,6493,female,45,postgrad,employed,middle,married,america,1,7,19,3,1,4
+917,11809,female,61,grad,employed,lower,married,america,1,5,6,13,1,  1
+918,7111,female,62,grad,employed,lower,married,america,1,6,5,9,0,    4
+919,5533,female,54,grad,employed,lower,married,asia,0,7,5,19,1, 2
+920,11394,female,74,grad,employed,lower,married,america,0,5,6,18,1, 4
+921,10252,female,64,unknown,employed,middle,single,europe,0,20,1,3,1, 1
+922,13824,female,62,unknown,employed,middle,single,america,0,12,0,1,1,   1
+923,10614,female,64,unknown,employed,middle,single,america,0,22,1,2,1,    3
+924,9254,female,75,unknown,employed,upper-middle,single,europe,0,19,1,3,0,    4
+925,9611,female,63,unknown,employed,middle,single,oceania,0,16,0,2,0,   2
+926,7036,female,66,postgrad,employed,lower-middle,single,europe,0,16,3,2,1,0
+927,16379,female,71,postgrad,employed,lower-middle,single,oceania,0,11,3,2,1,0
+928,12232,female,61,postgrad,employed,lower-middle,single,oceania,0,20,3,2,3,   0
+929,19369,female,40,undergrad,unemployed,middle,single,oceania,0,0,16,18,3,   0
+930,1565,female,39,undergrad,unemployed,middle,single,asia,0,0,14,20,1,0
+931,19540,female,64,undergrad,employed,middle,single,oceania,3,4,17,5,5,   2
+932,1454,female,57,undergrad,employed,middle,single,america,3,4,17,8,6,  3
+933,6243,female,52,undergrad,employed,middle,single,america,2,8,20,8,8,    2
+934,6178,female,35,unknown,employed,extreme upper,single,europe,1,0,20,4,1,0
+935,1111,female,34,unknown,employed,extreme upper,single,oceania,0,0,23,8,0, 0
+936,5894,female,32,unknown,employed,extreme upper,single,america,0,0,20,7,1, 0
+937,9102,female,35,unknown,employed,extreme upper,single,america,0,0,18,8,0,   0
+938,3386,female,32,unknown,employed,extreme upper,single,america,1,0,15,7,1,   0
+939,14670,female,44,postgrad,employed,upper-middle,single,asia,0,3,6,2,1, 3
+940,5423,female,45,postgrad,employed,upper-middle,single,oceania,1,2,8,2,0,    1
+941,17043,female,45,postgrad,employed,middle,single,asia,0,1,7,1,1,  2
+942,3572,female,62,postgrad,employed,upper-middle,single,oceania,1,2,0,1,0,   0
+943,9256,female,60,postgrad,employed,middle,single,america,3,3,0,2,1,0
+944,15948,female,74,postgrad,employed,middle,single,asia,2,2,0,2,0,    0
+945,19274,female,54,postgrad,employed,upper-middle,single,asia,1,1,0,1,0, 0
+946,12734,female,60,postgrad,employed,middle,single,asia,3,3,1,2,1, 0
+947,16042,female,53,postgrad,employed,upper-middle,single,america,3,2,0,2,1,0
+948,2754,female,69,postgrad,employed,middle,single,oceania,2,1,0,2,1,   0
+949,3123,female,63,postgrad,employed,middle,single,europe,2,3,1,1,1,   0
+950,17206,female,33,unknown,employed,extreme upper,single,america,0,1,10,7,0,  0
+951,15746,female,35,undergrad,student,upper-middle,single,asia,0,8,6,0,0,   4
+952,7024,female,48,undergrad,employed,lower-middle,single,asia,1,0,3,2,0,    4
+953,14644,female,46,undergrad,employed,lower-middle,single,america,1,1,1,3,0,1
+954,7278,female,47,undergrad,employed,lower-middle,single,america,0,0,2,1,0,   4
+955,16234,female,49,undergrad,employed,lower-middle,single,europe,0,0,1,2,0, 2
+956,14199,female,30,undergrad,employed,lower-middle,single,europe,0,1,2,3,1,    0
+957,18433,female,48,grad,employed,lower,single,europe,0,1,3,3,3,   4
+958,19312,female,48,grad,employed,lower,single,america,0,3,3,1,1,   3
+959,18607,female,47,grad,employed,lower,single,oceania,0,1,1,2,1,  1
+960,12958,female,75,undergrad,retired,lower,single,europe,0,0,1,0,0,    4
+961,9784,female,74,undergrad,retired,lower,single,america,0,0,1,0,0, 1
+962,16508,female,77,undergrad,retired,lower,single,oceania,0,0,1,0,0,  1
+963,12989,female,65,unknown,unemployed,lower-middle,single,europe,0,0,8,2,0,    1
+964,6956,female,59,unknown,unemployed,lower-middle,single,america,0,0,6,2,1,1
+965,12923,female,50,unknown,unemployed,lower-middle,single,europe,0,0,8,3,0, 1
+966,7578,female,68,unknown,unemployed,lower-middle,single,america,0,0,8,2,1,3
+967,6856,female,77,unknown,unemployed,lower-middle,single,europe,0,0,7,2,1,    1
+968,5546,female,73,unknown,unemployed,lower-middle,single,oceania,0,0,5,2,0,    2
+969,16421,female,59,unknown,unemployed,lower-middle,single,oceania,0,0,7,3,1,  4
+970,1040,female,32,grad,employed,middle,single,europe,0,3,5,2,2,    1
+971,13600,female,34,grad,employed,middle,single,oceania,0,2,8,1,1,  1
+972,7378,female,34,grad,employed,middle,single,america,0,2,5,1,3, 2
+973,7477,female,33,grad,employed,middle,married,oceania,0,2,7,1,3, 2
+974,6544,female,46,unknown,employed,lower-middle,married,asia,0,1,16,7,3, 0
+975,9958,female,49,unknown,employed,lower-middle,married,asia,0,2,12,4,1, 0
+976,10180,female,47,unknown,employed,lower-middle,married,asia,0,3,23,7,1,  0
+977,15900,female,55,grad,employed,extreme upper,married,asia,0,1,4,2,2, 1
+978,14810,female,75,grad,employed,extreme upper,married,europe,0,0,7,1,2,1
+979,12166,female,53,grad,employed,upper-middle,married,europe,0,1,6,2,3,    3
+980,16670,female,58,grad,employed,middle,single,america,2,6,0,2,0,    0
+981,6880,female,39,undergrad,employed,lower,single,america,0,7,1,1,0,   0
+982,13885,female,38,undergrad,employed,lower,single,oceania,0,7,1,1,1,  0
+983,2375,female,36,undergrad,employed,lower,single,america,1,5,1,1,0, 0
+984,6836,female,40,grad,employed,lower,single,europe,0,0,1,1,0,    1
+985,1603,female,50,unknown,unemployed,lower,single,asia,0,3,1,1,1,   4
+986,3021,female,58,unknown,unemployed,lower,single,europe,0,3,1,1,1,  1
+987,10100,female,78,unknown,unemployed,lower,single,oceania,0,1,0,1,1,1
+988,8564,female,71,unknown,unemployed,lower,single,europe,0,3,1,3,1,   2
+989,10409,female,62,unknown,unemployed,lower,single,asia,0,2,1,2,1,   1
+990,13186,female,32,undergrad,employed,middle,single,europe,0,1,8,2,1,0
+991,7924,female,35,undergrad,employed,middle,single,america,0,1,8,1,1,0
+992,4910,female,33,undergrad,employed,middle,single,asia,0,1,4,2,1,   0
+993,19899,female,58,unknown,employed,lower,single,europe,0,0,2,8,0,1
+994,1205,female,60,unknown,employed,lower,single,america,0,0,1,5,1,  2
+995,17424,female,76,unknown,employed,lower,single,oceania,0,0,1,7,1,   4
+996,7293,female,33,unknown,employed,extreme upper,single,europe,0,0,15,6,0,  0
+997,19543,female,35,postgrad,student,lower-middle,single,america,0,16,5,1,1,  1
+998,3994,female,34,postgrad,student,lower,single,oceania,0,18,5,1,1,1
+999,2733,female,33,postgrad,student,lower-middle,single,asia,0,17,7,1,0,    3
+1000,9219,female,61,grad,employed,lower,single,america,0,1,8,3,1,   1
+1001,13445,female,59,grad,employed,lower,single,asia,0,1,7,1,0,  1
+1002,17516,female,32,grad,unemployed,extreme upper,single,asia,0,7,4,7,1, 3
+1003,12993,female,35,grad,unemployed,extreme upper,single,oceania,0,4,4,4,0,    3
+1004,8213,female,30,postgrad,employed,middle,single,america,1,0,3,6,3,  0
+1005,18364,female,30,grad,employed,lower-middle,single,america,0,0,1,1,0, 0
+1006,12495,female,33,postgrad,student,lower,single,europe,2,1,3,2,0,   0
+1007,13165,female,32,postgrad,student,lower-middle,single,oceania,1,1,2,1,1, 0
+1008,10305,female,31,postgrad,student,lower-middle,single,europe,2,0,2,3,1,   0
+1009,8032,female,34,postgrad,student,lower,single,america,1,1,2,3,1,    0
+1010,4623,female,60,grad,unemployed,upper-middle,single,asia,0,5,1,7,2,    3
+1011,1938,female,54,grad,unemployed,upper-middle,single,oceania,0,4,1,5,2, 4
+1012,15836,female,53,grad,unemployed,upper-middle,single,america,0,8,1,4,1,   3
+1013,6755,female,72,undergrad,retired,middle,single,america,0,0,6,1,3,  1
+1014,1431,female,72,undergrad,retired,middle,single,america,0,0,7,1,2, 2
+1015,4142,female,77,undergrad,retired,middle,single,asia,0,0,6,0,3,   1
+1016,14535,female,34,grad,unemployed,lower-middle,single,oceania,0,8,5,23,2,  3
+1017,4542,female,34,grad,unemployed,lower-middle,single,europe,1,5,4,9,3,    3
+1018,11822,female,33,unknown,employed,lower,single,asia,1,1,7,19,20,1
+1019,14509,female,32,unknown,employed,lower,single,europe,0,1,7,18,12, 2
+1020,5949,female,33,unknown,employed,lower,single,asia,1,1,6,17,22,    2
+1021,4645,female,44,grad,employed,middle,single,europe,0,0,2,3,0,  2
+1022,18255,female,43,grad,employed,middle,single,asia,1,1,3,1,1,  2
+1023,18990,female,45,postgrad,employed,extreme upper,single,america,1,20,8,6,8,    1
+1024,17367,female,41,postgrad,employed,extreme upper,single,america,0,22,8,5,8,  2
+1025,12283,female,43,postgrad,employed,extreme upper,single,asia,0,15,5,8,6,  1
+1026,16064,female,34,postgrad,employed,middle,single,europe,18,5,7,6,4,0
+1027,8482,female,35,postgrad,employed,middle,single,europe,10,4,8,8,5,   0
+1028,19562,female,32,postgrad,employed,middle,single,america,18,6,8,6,6,    0
+1029,19565,female,33,postgrad,employed,middle,single,europe,12,8,7,4,7,  0
+1030,2767,female,35,postgrad,employed,middle,single,oceania,18,7,7,4,5,0
+1031,14941,female,32,postgrad,employed,middle,single,asia,19,6,8,7,6,0
+1032,15016,female,35,postgrad,employed,middle,single,europe,22,6,7,4,6,   0
+1033,2149,female,32,postgrad,employed,middle,single,europe,16,6,6,6,4,    0
+1034,3029,female,34,postgrad,employed,middle,single,europe,21,4,4,7,8,0
+1035,17203,female,37,undergrad,employed,lower,single,europe,0,0,1,1,1,    0
+1036,4442,female,38,undergrad,employed,lower,single,oceania,1,1,3,0,1,    0
+1037,11458,female,38,unknown,unemployed,lower,single,oceania,0,0,6,1,1, 1
+1038,2345,female,36,unknown,unemployed,lower,single,oceania,0,0,8,1,1,   1
+1039,14367,female,37,unknown,unemployed,lower,single,oceania,0,0,4,1,0,3
+1040,16548,female,37,unknown,unemployed,lower,single,europe,0,0,5,1,1,  3
+1041,14190,female,41,postgrad,employed,middle,single,america,0,7,15,1,1,1
+1042,17285,female,41,postgrad,employed,middle,single,oceania,1,5,16,1,0, 1
+1043,18581,female,41,postgrad,employed,middle,single,oceania,0,5,21,2,1,  4
+1044,16221,female,45,postgrad,employed,middle,single,asia,1,7,17,1,1,    2
+1045,16783,female,36,grad,unemployed,middle,single,asia,0,0,0,0,1, 4
+1046,3632,female,38,grad,unemployed,upper-middle,single,america,1,0,0,1,1,  3
+1047,7414,female,39,grad,unemployed,upper-middle,single,asia,0,0,0,1,0,2
+1048,11443,female,39,grad,unemployed,middle,single,oceania,0,0,0,1,1,2
+1049,19488,female,54,grad,employed,lower,single,america,0,2,6,1,1, 1
+1050,18027,female,66,grad,employed,lower,single,america,0,3,6,0,0,    3
+1051,16954,female,60,grad,employed,lower,single,asia,0,3,4,1,0,   3
+1052,15625,female,54,grad,employed,lower,single,asia,0,1,6,0,1,  1
+1053,9201,female,42,unknown,employed,extreme upper,single,oceania,0,18,12,20,8,2
+1054,5892,female,44,unknown,employed,extreme upper,single,oceania,0,17,13,18,4, 2
+1055,15054,female,42,unknown,employed,extreme upper,single,asia,0,16,19,16,7, 1
+1056,14338,female,45,unknown,employed,upper,married,america,0,14,20,19,4,   1
+1057,5659,female,41,unknown,employed,upper-middle,married,america,0,15,20,11,5,  1
+1058,5811,female,42,unknown,employed,extreme upper,married,america,0,22,16,12,8, 3
+1059,16176,female,45,unknown,employed,middle,married,america,2,2,8,6,1,   0
+1060,8037,female,43,unknown,employed,upper-middle,married,oceania,1,2,6,8,2,  0
+1061,7112,female,41,unknown,employed,upper-middle,married,america,2,2,7,6,2,    0
+1062,13000,female,44,unknown,employed,middle,married,america,2,3,7,7,1,  0
+1063,5700,female,42,postgrad,employed,middle,married,asia,0,1,6,2,0, 1
+1064,7875,female,44,postgrad,employed,middle,married,oceania,1,2,6,1,0, 2
+1065,16429,female,68,undergrad,employed,lower-middle,married,europe,0,22,8,1,1,  2
+1066,14843,female,51,undergrad,employed,lower-middle,married,america,0,13,4,3,1, 1
+1067,8150,female,63,undergrad,employed,lower-middle,married,oceania,0,21,4,3,1,  1
+1068,19468,female,42,undergrad,unemployed,middle,married,asia,1,1,0,1,1,    3
+1069,9428,female,44,undergrad,unemployed,middle,married,europe,1,0,1,0,1,    1
+1070,8281,female,75,undergrad,employed,lower,married,asia,1,0,4,2,1,   1
+1071,8891,female,35,unknown,employed,extreme upper,married,asia,1,1,9,8,1,0
+1072,2271,female,35,unknown,employed,extreme upper,married,europe,0,0,18,6,1, 0
+1073,14664,female,35,unknown,employed,upper-middle,married,europe,0,0,21,4,0,    0
+1074,16351,female,31,unknown,employed,extreme upper,married,oceania,0,0,11,4,0,   0
+1075,8608,female,34,unknown,employed,extreme upper,married,america,1,0,10,8,0,    0
+1076,8012,female,35,unknown,employed,extreme upper,married,europe,1,1,9,8,0,    0
+1077,8081,female,48,grad,employed,upper-middle,married,oceania,0,4,4,2,15, 3
+1078,8112,female,37,grad,unemployed,lower-middle,married,america,0,3,4,4,6,0
+1079,6719,female,33,undergrad,employed,middle,married,oceania,9,0,11,2,1,   0
+1080,1141,female,32,undergrad,employed,middle,married,asia,19,0,19,2,1,0
+1081,11320,female,31,undergrad,employed,middle,married,america,20,0,16,2,0,    0
+1082,5577,female,33,undergrad,employed,middle,married,america,12,1,20,3,1,0
+1083,7719,female,33,undergrad,employed,middle,married,asia,14,1,14,3,1,  0
+1084,2394,female,32,undergrad,employed,middle,married,europe,14,1,18,2,0, 0
+1085,2071,female,32,undergrad,employed,middle,married,america,12,0,21,2,1,  0
+1086,14894,female,35,undergrad,employed,middle,married,europe,17,1,11,3,0,  0
+1087,6502,female,32,undergrad,employed,middle,married,america,23,0,10,3,1,    0
+1088,7602,female,33,undergrad,employed,middle,married,oceania,12,1,9,1,0,   0
+1089,6295,female,72,undergrad,retired,lower,married,oceania,0,0,6,1,9, 4
+1090,15376,female,71,undergrad,retired,lower,married,oceania,0,0,6,2,10,   1
+1091,19968,female,53,undergrad,retired,lower,married,oceania,0,0,4,2,13,   2
+1092,18772,female,39,grad,unemployed,extreme upper,married,america,0,0,2,1,0,0
+1093,16736,female,36,grad,unemployed,extreme upper,married,europe,0,0,3,0,1,0
+1094,4572,female,38,grad,unemployed,extreme upper,married,america,1,0,3,1,0,    0
+1095,2838,female,39,grad,unemployed,extreme upper,married,europe,0,0,2,1,0,   0
+1096,15245,female,39,grad,unemployed,extreme upper,married,europe,0,0,1,0,1,    0
+1097,15117,female,38,grad,unemployed,extreme upper,married,oceania,0,0,3,1,1, 0
+1098,15596,female,37,grad,unemployed,extreme upper,married,europe,1,0,1,0,1, 0
+1099,10157,female,38,grad,unemployed,upper-middle,married,europe,1,0,1,0,0, 0
+1100,17202,female,39,grad,unemployed,extreme upper,married,europe,0,0,3,1,0,   0
+1101,8140,female,34,grad,employed,lower,married,asia,0,6,1,7,3,  0
+1102,6721,female,34,grad,employed,lower-middle,married,oceania,0,7,1,8,3,   0
+1103,13862,female,35,grad,employed,lower-middle,married,america,1,4,0,7,3,0
+1104,1497,female,31,grad,employed,lower,married,europe,0,7,0,5,1, 0
+1105,9787,female,36,grad,employed,lower-middle,married,europe,1,21,2,2,2,   2
+1106,18074,female,38,grad,employed,lower-middle,married,asia,0,13,2,3,2,4
+1107,19084,female,37,grad,employed,lower-middle,married,asia,0,15,2,1,2,  1
+1108,18221,female,40,grad,employed,lower-middle,married,europe,0,21,3,2,1,  2
+1109,16530,female,54,grad,unemployed,lower-middle,married,europe,0,1,2,3,1,   4
+1110,1906,female,72,grad,unemployed,lower-middle,married,asia,0,0,1,3,3,   1
+1111,17979,female,61,unknown,employed,lower,married,america,0,1,2,2,1,1

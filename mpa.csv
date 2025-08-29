@@ -1,0 +1,6 @@
+,mobile_plan,description,price,duration,capacity
+0,datasilver,High_Speed,100000,5,2
+1,datagold,High_Speed,200000,5,5
+2,socialmedia,Unlimited_Social,150000,3,1
+3,socialmediagold,"High_Speed, Unlimited_Social",250000,3,3
+4,datacall,"High_Speed, Unlimited_Social, Calls",200000,5,2
